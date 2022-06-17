@@ -7,8 +7,8 @@ permalink: /
 notification: This website is under construction
 sections:
   - hero:
-      title: eGuarantees@Gov
-      subtitle: Easy. Efficient. Secure.
+      title: eGuarantee@Gov
+      subtitle: Seamless. Secure. Savings.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
