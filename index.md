@@ -10,9 +10,6 @@ sections:
       title: eGuarantee@Gov
       subtitle: Digitalising the issuance and discharge of banker's guarantee,
         performance bonds and insurance bonds
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
   - infopic:
       title: Swift Seamless Savings
       alt: Image alt text
