@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This website is under construction
+notification: "NOTICE: This website is under construction."
 sections:
   - hero:
       title: eGuarantee@Gov
-      subtitle: Seamless. Secure. Savings.
+      subtitle: Swift. Seamless. Savings.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
