@@ -17,11 +17,6 @@ sections:
       title: Swift Seamless Savings
       alt: Image alt text
   - infobar:
-      title: Swift. Seamless. Savings.
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infobar:
       title: Benefits of eGuarantee@Gov
       subtitle: Infobar Subtitle
       description: Infobar description
