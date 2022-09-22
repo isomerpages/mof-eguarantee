@@ -27,6 +27,11 @@ sections:
       title: Savings
       description: Save on courier charges and costs for physical storage of paper
         guarantees
+  - infobar:
+      title: 1. Review instructions from Participating Agencies
+      subtitle: Purchase in 3 easy steps
+      button: List of Participating Agencies
+      url: https://www.ntp.gov.sg/home/
   - resources:
       title: Media Release & Infographics
       button: Resources Button Name
