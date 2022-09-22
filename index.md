@@ -37,9 +37,14 @@ sections:
   - infobar:
       title: 2. Send eGuarantee application to Financial Institutions
       subtitle: Purchase in 3 easy steps
-      description: Financial Institutions will send the eGuarantee to Agencies via the NTP
+      description: Financial Institutions will process your application and send the
+        eGuarantee to Agencies via the NTP
       button: List of Financial Institutions
       url: https://www.ntp.gov.sg/home/
+  - infobar:
+      title: 3. Agencies will process your eGuarantee
+      subtitle: purchase in 3 easy steps
+      description: <TBC>
   - resources:
       title: Media Release & Infographics
       button: Resources Button Name
