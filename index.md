@@ -24,10 +24,9 @@ sections:
       button: "Find out more about NTP here "
       url: https://www.ntp.gov.sg/home/
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Savings
+      description: Save on courier charges and costs for physical storage of paper
+        guarantees
   - resources:
       title: Media Release & Infographics
       button: Resources Button Name
