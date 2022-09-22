@@ -16,10 +16,8 @@ sections:
       image: /images/3 easy steps.jpg
       url: https://go.gov.sg/2tuzzk
   - infobar:
-      title: Benefits of eGuarantee@Gov
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Swift
+      description: Faster issuance process, from 5 to 7 days to within 1 day
   - infobar:
       title: eGuarantee@Gov leverages on the Networked Trade Platform
       description: A one-stop trade and logistics ecosystem which supports
@@ -27,6 +25,11 @@ sections:
         - in Singapore and abroad.
       button: "Find out more here "
       url: https://www.ntp.gov.sg/home/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
   - resources:
       title: Media Release & Infographics
       button: Resources Button Name
