@@ -11,15 +11,6 @@ links:
         url: /home-customs/
       - title: Media releases & infographics
         url: /home-media/
-  - title: "Applying for an eGuarantee "
-    url: /applying/
-    sublinks:
-      - title: eGuarantee workflow
-        url: /apply-workflow/
-      - title: Participating FIs & Agencies
-        url: /apply-participants/
-      - title: FAQs
-        url: /apply-FAQ/
   - title: Financial institutions
     url: /FIs/
   - title: Agencies
