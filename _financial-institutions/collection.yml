@@ -1,5 +1,5 @@
 collections:
-  financial-institutions-1:
+  financial-institutions:
     output: true
     order:
       - List of participating financial institutions.md
