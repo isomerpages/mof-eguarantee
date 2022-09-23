@@ -26,7 +26,7 @@ sections:
       title: 1. Review eGuarantee instructions from Agencies
       subtitle: Purchase in 3 easy steps
       button: List of Agencies
-      url: https://www.ntp.gov.sg/home/
+      url: /agencies
       description: Agencies will provide instructions on how to fill up your
         eGuarantee application
   - infobar:
