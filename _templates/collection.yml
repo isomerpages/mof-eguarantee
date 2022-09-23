@@ -1,4 +1,5 @@
 collections:
   templates:
     output: true
-    order: []
+    order:
+      - List of eGuarantee templates/.keep
