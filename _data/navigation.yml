@@ -2,15 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Home
     url: /home/
-    sublinks:
-      - title: Introduction
-        url: /home-introduction/
-      - title: Benefits of initiative
-        url: /home-benefits/
-      - title: Customs' eBGP
-        url: /home-customs/
-      - title: Media releases & infographics
-        url: /home-media/
+    sublinks: []
   - title: Financial institutions
     url: /FIs/
   - title: Agencies
