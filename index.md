@@ -25,8 +25,8 @@ sections:
   - infobar:
       title: 1. Review eGuarantee instructions from Agencies
       subtitle: Purchase in 3 easy steps
-      button: List of Agencies
-      url: /agencies
+      button: List of eGuarantee templates
+      url: /templates/List-of-eGuarantee-templates/existing
       description: Agencies will provide instructions on how to fill up your
         eGuarantee application
   - infobar:
