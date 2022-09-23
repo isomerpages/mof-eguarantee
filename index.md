@@ -12,7 +12,7 @@ sections:
         performance bonds and insurance bonds
   - infobar:
       title: Swift
-      description: Faster issuance process, from 5 to 7 days to within 1 day
+      description: Faster guarantee issuance process, from 5 to 7 days to within 1 day
   - infobar:
       title: Seamless
       description: eGuarantee lodged and discharged on Networked Trade Platform (NTP)
