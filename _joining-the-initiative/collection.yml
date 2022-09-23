@@ -1,4 +1,5 @@
 collections:
   joining-the-initiative:
     output: true
-    order: []
+    order:
+      - How to join/.keep
