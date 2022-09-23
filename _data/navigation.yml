@@ -5,8 +5,6 @@ links:
     sublinks: []
   - title: Financial Institutions
     url: /permalink
-  - title: Agencies
-    url: /agencies/
   - title: eGuarantee Templates
     url: /templates/
   - title: Joining the initiative
@@ -18,3 +16,5 @@ links:
         url: /joining-onboarding/
       - title: Contact us
         url: /joining-contact-us/
+  - title: Agencies 2
+    url: /permalink
