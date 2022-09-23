@@ -39,7 +39,8 @@ sections:
   - infobar:
       title: 3. Agencies will process your eGuarantee
       subtitle: purchase in 3 easy steps
-      description: <TBC>
+      button: List of agencies
+      url: /agencies
   - resources:
       title: Media Release & Infographics
       button: Resources Button Name
