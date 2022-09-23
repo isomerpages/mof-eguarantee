@@ -2,4 +2,5 @@ collections:
   templates:
     output: true
     order:
+      - List of eGuarantee templates/Example Title.md
       - List of eGuarantee templates/.keep
