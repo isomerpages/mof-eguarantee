@@ -1,0 +1,4 @@
+collections:
+  financial-institutions:
+    output: true
+    order: []
