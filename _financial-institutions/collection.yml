@@ -1,4 +1,5 @@
 collections:
   financial-institutions:
     output: true
-    order: []
+    order:
+      - Financial Institutions.md
