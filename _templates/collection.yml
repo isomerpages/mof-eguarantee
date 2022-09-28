@@ -2,6 +2,7 @@ collections:
   templates:
     output: true
     order:
+      - List of eGuarantee templates/Data sets.md
       - List of eGuarantee templates/.keep
       - List of eGuarantee templates/Existing templates.md
       - List of eGuarantee templates/Past templates.md
