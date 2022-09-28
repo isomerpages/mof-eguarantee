@@ -18,3 +18,8 @@ The following eGuarantee templates are in use by agencies. Please contact your a
 | GOV_LND_RLJ | [Test PDF 1](/files/Isomer%20Test%20document%202.pdf) | Predominantly by HDB, JTC and URA |Date| 
 |IRAS_GST | [Test PDF 2](/files/Isomer%20Test%20document.pdf) | IRAS only |Date |
 |NEA_HAZ | [Test PDF 2](/files/Isomer%20Test%20document.pdf) | NEA only |Date |
+|CUSTOMS_REG| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | Customs only |Date |
+|NPARKS_SBL| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | NParks only |Date |
+|MOM_EAL| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | MOM only |Date |
+|JTC_REI| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | JTC only |Date |
+|LTA_SWA | [Test PDF 2](/files/Isomer%20Test%20document.pdf) | LTA only |Date |
