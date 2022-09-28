@@ -23,4 +23,3 @@ To purchase an eGuarantee, you may contact the following participating banks:
 | Oversea-Chinese Banking Corporation     | OCBC     | [TBC]     |
 | Standard Chartered Bank     | SCB     | [TBC]     |
 | United Overseas Bank    | UOB     | [TBC]     |
-
