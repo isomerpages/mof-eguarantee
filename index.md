@@ -7,10 +7,7 @@ permalink: /
 notification: "NOTICE: This website is under construction."
 sections:
   - hero:
-      title: eGuarantee@Gov
-      subtitle: Digitalising the issuance and discharge of banker's guarantee,
-        performance bonds and insurance bonds
-      background: /images/Smaller.jpg
+      background: /images/180h.jpg
   - infobar:
       title: Swift
       description: Faster guarantee issuance process, from 5 to 7 days to within 1 day
