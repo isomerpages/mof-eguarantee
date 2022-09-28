@@ -10,7 +10,9 @@ sections:
       background: /images/180h.jpg
   - infobar:
       title: Swift
-      description: Faster guarantee issuance process, from 5 to 7 days to within 1 day
+      description: Purchase in 3 easy steps
+      url: /purchase-eguarantee/3steps
+      button: Purchase here
   - infobar:
       title: Seamless
       description: eGuarantee lodged and discharged on Networked Trade Platform (NTP)
