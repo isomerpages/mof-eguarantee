@@ -1,4 +1,5 @@
 collections:
   purchase-eguarantee:
     output: true
-    order: []
+    order:
+      - Purchase an eGuarantee in 3 easy steps.md
