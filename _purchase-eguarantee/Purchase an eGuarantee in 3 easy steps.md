@@ -6,7 +6,7 @@ description: ""
 # Step 1
 **Review eGuarantee purchase instructions from Agencies**
 
-Agencies will provide instructions on how to fill up your eGuarantee application. To purchase an eGuarantee from Financial Institutions [click here](/financial-institutions/). To view the list of eGuarantee templates in use currently click here.
+Agencies will provide instructions on how to fill up your eGuarantee application. To purchase an eGuarantee from Financial Institutions [click here](/financial-institutions/). To view the list of eGuarantee templates in use currently [click here](/templates/List-of-eGuarantee-templates/existing/).
 
 
 # Step 2
