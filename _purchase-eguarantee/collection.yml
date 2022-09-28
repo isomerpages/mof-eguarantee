@@ -1,0 +1,4 @@
+collections:
+  purchase-eguarantee:
+    output: true
+    order: []
