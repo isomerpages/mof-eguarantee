@@ -11,13 +11,13 @@ sections:
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
-      url: /purchase-eguarantee/3steps
+      url: /permalink/howitworks/
       button: Learn more here
   - infobar:
       title: Seamless
       description: Apply for eGuarantee in 3 easy steps
       button: Learn more here
-      url: /permalink/howitworks/
+      url: "/purchase-eguarantee/3steps "
   - infobar:
       title: Savings
       description: Save on courier charges and costs for physical storage of paper
