@@ -12,7 +12,7 @@ sections:
       title: Swift
       description: Guarantees can be issued in less than 1 day
       url: /permalink/howitworks/
-      button: Learn more here
+      button: How it works
   - infobar:
       title: Seamless
       description: Apply for eGuarantee in 3 easy steps
