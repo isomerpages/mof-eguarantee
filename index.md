@@ -10,13 +10,13 @@ sections:
       background: /images/180h.jpg
   - infobar:
       title: Swift
-      description: Purchase in 3 easy steps
+      description: Guarantees can be issued in less than 1 day
       url: /purchase-eguarantee/3steps
-      button: Purchase here
+      button: Learn more here
   - infobar:
       title: Seamless
-      description: eGuarantee lodged and discharged on Networked Trade Platform (NTP)
-      button: "Find out more about NTP here "
+      description: Apply for eGuarantee in 3 easy steps
+      button: Learn more here
       url: https://www.ntp.gov.sg/home/
   - infobar:
       title: Savings
