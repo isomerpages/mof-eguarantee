@@ -1,5 +1,5 @@
 collections:
-  purchase-eguarantee:
+  applying-for-an-eguarantee:
     output: true
     order:
       - Purchase an eGuarantee in 3 easy steps.md
