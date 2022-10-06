@@ -17,7 +17,7 @@ sections:
       title: Seamless
       description: Apply for eGuarantee in 3 easy steps
       button: Learn more here
-      url: https://www.ntp.gov.sg/home/
+      url: /purchase-eguarantee/3steps/
   - infobar:
       title: Savings
       description: Save on courier charges and costs for physical storage of paper
