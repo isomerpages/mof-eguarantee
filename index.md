@@ -17,7 +17,7 @@ sections:
       title: Seamless
       description: Apply for eGuarantee in 3 easy steps
       button: Learn more here
-      url: /purchase-eguarantee/3steps/
+      url: /permalink/howitworks/
   - infobar:
       title: Savings
       description: Save on courier charges and costs for physical storage of paper
