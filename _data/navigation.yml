@@ -3,7 +3,12 @@ links:
   - title: Home
     url: https://eguarantee@gov.gov.sg
   - title: Applying for an eGuarantee
-    url: /purchase-eguarantee/3steps
+    url: /permalink
+    sublinks:
+      - title: How it works
+        url: /permalink/howitworks/
+      - title: 3 easy steps
+        url: /purchase-eguarantee/3steps
   - title: Financial Institutions
     url: /financial-institutions
   - title: Agencies
