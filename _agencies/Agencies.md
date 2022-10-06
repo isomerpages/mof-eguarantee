@@ -3,7 +3,6 @@ title: Agencies
 permalink: /agencies/
 description: ""
 ---
-The following agencies are onboard eGuarantee@Gov:
 
 
 
@@ -22,5 +21,4 @@ The following agencies are onboard eGuarantee@Gov:
 | The National Environment Agency    | NEA
 | National Parks Board    | NParks    
 | Public Utilities Board    | PUB
-| Urban Redevelopment Authority    | URA     
-
+| Urban Redevelopment Authority    | URA
