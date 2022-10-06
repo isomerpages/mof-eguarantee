@@ -5,9 +5,9 @@ links:
   - title: Applying for an eGuarantee
     url: /permalink
     sublinks:
-      - title: How it works
+      - title: How It Works
         url: /permalink/howitworks/
-      - title: 3 easy steps
+      - title: 3 Easy Steps
         url: /purchase-eguarantee/3steps
   - title: Financial Institutions
     url: /financial-institutions
@@ -16,7 +16,12 @@ links:
   - title: eGuarantee Templates
     url: /templates/List-of-eGuarantee-templates/existing
   - title: Resources
-    url: /resources/data-sets/
+    url: /permalink
+    sublinks:
+      - title: Data sets
+        url: /templates/List-of-eGuarantee-templates/datasets/
+      - title: Frequently Asked Questions
+        url: /permalink
   - title: Joining the initiative
     url: /joining-the-initiative/How-to-join/
     sublinks:
