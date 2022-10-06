@@ -4,9 +4,6 @@ permalink: /financial-institutions/
 description: ""
 ---
 
-To purchase an eGuarantee, you may contact the following participating banks: 
-
-
 | Financial Institution | Acronym | Website |
 | -------- | -------- | -------- |
 | Banco Santander     | [TBC]     | [TBC]     |
