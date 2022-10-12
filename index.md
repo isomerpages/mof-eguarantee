@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: eGuarantee@Gov, an initiative to digitise paper-form guarantee processes
+  to reap time and cost savings.
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: "NOTICE: This website is under construction."
@@ -26,3 +27,4 @@ sections:
       title: Media Release & Infographics
       button: Resources Button Name
 ---
+
