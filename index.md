@@ -16,7 +16,7 @@ sections:
       button: How it works
   - infobar:
       title: Seamless
-      description: Apply for eGuarantee in 3 easy steps
+      description: Apply for eGuarantees in 3 easy steps
       button: Learn more here
       url: "/purchase-eguarantee/3steps "
   - infobar:
