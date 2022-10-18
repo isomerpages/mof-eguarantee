@@ -3,7 +3,6 @@ title: Participating Financial Institutions
 permalink: /financial-institutions/
 description: ""
 ---
-
 | Financial Institution | Acronym | Website |
 | -------- | -------- | -------- |
 | Banco Santander, S.A.     | BSCH SG     |  [Link](https://www.santander.com/en/home)    |
@@ -23,7 +22,7 @@ description: ""
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
 | MUFG Bank, Ltd. Singapore Branch     | MUFG Bank     | [Link](https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/singapore.html)     |
 | National Bank of Kuwait S.A.K.P.    | NBKSG     | -     |
-| Oversea-Chinese Banking Corporation     | OCBC     | [TBC]     |
+| Oversea-Chinese Banking Corporation     | OCBC     | [Link](https://www.ocbc.com/business-banking/smes/trade/electronic-bankers-guarantee)    |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
 | Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
 | United Overseas Bank Limited    | UOB     | [Link](www.uob.com.sg/electronicbg)     |
