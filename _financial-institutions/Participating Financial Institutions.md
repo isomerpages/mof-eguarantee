@@ -3,12 +3,14 @@ title: Participating Financial Institutions
 permalink: /financial-institutions/
 description: ""
 ---
-
-
 | Financial Institution | Acronym | Website |
 | -------- | -------- | -------- |
-| Banco Santander     | [TBC]     | [TBC]     |
-|Bank of China     | BOC | [TBC]     |
+| Banco Santander, S.A.     | BSCH SG     |  [Link](https://www.santander.com/en/home)    |
+|Bank of China Limited     | BOC |  [Link](https://pic.bankofchina.com/bocappd/singapore/202001/P020200120598567918624.pdf)    |
+| BNP Paribas     | BNP     | -     |
+| China Citic Bank International Limited Singapore Branch     | CNCBISG     | -     |
+| China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](www.sg.cntaiping.com)     |
+| CIMB Bank Berhad     | CIMB     | [Link](https://www.cimb.com.sg/en/business/help-support/forms-download-center.html)     |
 | Commerce International Merchant Bankers     | CIMB     | [TBC]     |
 | Credit Industriel et Commercial     | CIC     | [TBC]     |
 | Development Bank of Singapore     | DBS     | [TBC]     |
