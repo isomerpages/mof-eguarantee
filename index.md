@@ -25,5 +25,4 @@ sections:
         guarantees
   - resources:
       title: Media Release & Infographics
-      button: Resources Button Name
 ---
