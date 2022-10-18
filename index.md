@@ -5,7 +5,7 @@ title: eGuarantee@Gov, an initiative to digitise paper-form guarantee processes
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "NOTICE: This website is under construction."
+notification: "NOTICE: Soft launch period from 19 Oct 2022 - 1 Nov 2022."
 sections:
   - hero:
       background: /images/Head Banner V1.jpg
