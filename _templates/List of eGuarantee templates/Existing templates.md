@@ -18,7 +18,7 @@ Choose the right guarantee template based on the instructions by the Agency you 
 | GOV_LND_RLJ | [GOV_LND_RLJ.pdf](/files/GOV_LND_RLJ.pdf) | Predominantly by HDB, JTC and URA | Application Deposit Guarantee for Reserve List Applications (One Joint Applicant but not All Joint Applicants) |
 |IRAS_GST | [IRAS_GST.pdf](/files/IRAS_GST.pdf) | IRAS only | eGuarantee to Support Applications for GST Registration or GST Schemes |
 |NEA_HAZ | [NEA_HAZ.pdf](/files/NEA_HAZ.pdf) | NEA only | eGuarantee for Basel Permit Application for the Export, Import and Transit of Hazardous Wastes | 
-|CUSTOMS_REG| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | Customs only |
+|CUSTOMS_REG| [CUSTOMS_REG.pdf](/files/CUSTOMS_REG.pdf) | Customs only | Security Deposit Guarantee for Compliance with Regulatory Requirements |
 |NPARKS_SBL| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | NParks only |
 |MOM_EAL| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | MOM only |
 |JTC_REI| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | JTC only |
