@@ -5,13 +5,8 @@ permalink: /contact-us/
 agency_name: us
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: MOF-DG-WG-Join-Secretariat@mof.gov.sg
       - other: ""
-    title: Careers
+    title: "General Enquiries "
 ---
