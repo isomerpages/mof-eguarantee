@@ -7,7 +7,8 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: "NOTICE: Soft launch period from 19 Oct 2022 - 1 Nov 2022."
 sections:
-  - hero: {}
+  - hero:
+      background: /images/Head Banner V2 (cropped).jpg
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
