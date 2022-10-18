@@ -8,7 +8,7 @@ permalink: /
 notification: "NOTICE: This website is under construction."
 sections:
   - hero:
-      background: /images/Banner cropped.jpg
+      background: /images/Head Banner V1.jpg
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
