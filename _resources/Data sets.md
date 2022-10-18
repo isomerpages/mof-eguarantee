@@ -17,8 +17,8 @@ All data sets are sent in CSV format, each CSV contains the data set of a single
 
 | Dataset | Purpose | Attachment |
 | -------- | -------- | -------- |
-| Issuance and Amendment data set     | To issue a new eGuarantee or amend details of an existing eGuarantee     |  [Link to data set](https://go.gov.sg/issuanceamendmentdataset)   |
-| Non-extension data set     | To communicate the financial institution's intent not to extend the guarantee further. Applicable for Guarantee Templates GOV_POC_NFD or LTA_SWA as they have automatic extension clauses.    |  [Link to data set](https://go.gov.sg/nonextensiondataset)  |
+| Issuance and Amendment data set     | To issue a new eGuarantee or amend details of an existing eGuarantee.     |  [Link to data set](https://go.gov.sg/issuanceamendmentdataset)   |
+| Non-extension data set     | To communicate the financial institution's intent not to extend the guarantee further. <br><br>Applicable for Guarantee Templates GOV_POC_NFD or LTA_SWA as they have automatic extension clauses.    |  [Link to data set](https://go.gov.sg/nonextensiondataset)  |
 
 
 ****
@@ -28,7 +28,7 @@ All data sets are sent in CSV format, each CSV contains the data set of a single
 
 | Dataset | Purpose | Attachment |
 | -------- | -------- | -------- |
-| Rejection data set     | To reject the issuance of a new eGuarantee or amendended eGuarantee issued by financial institution  | [Link to data set](https://go.gov.sg/rejectiondataset)    |
-| Claims data set     | To make claim on an eGuarantee in force | [Link to data set](https://go.gov.sg/claimsdataset)    |
-| Early Discharge  data set     | To discharge an eGuarantee prior to its claim expiry date | [Link to data set](https://go.gov.sg/earlydischargedataset)     |
-| Final extension  data set     | To extend the validity of the eGuarantee for a further final period upon receipt of a Non-extension data set from Financial Institutions  | [Link to data set](https://go.gov.sg/finalextensiondataset)     |
+| Rejection data set     | To reject the issuance of a new eGuarantee or amendended eGuarantee issued by financial institution.  | [Link to data set](https://go.gov.sg/rejectiondataset)    |
+| Claims data set     | To make claim on an eGuarantee in force. | [Link to data set](https://go.gov.sg/claimsdataset)    |
+| Early Discharge  data set     | To discharge an eGuarantee prior to its claim expiry date. | [Link to data set](https://go.gov.sg/earlydischargedataset)     |
+| Final extension  data set     | To extend the validity of the eGuarantee for a further final period upon receipt of a Non-extension data set from Financial Institutions.  | [Link to data set](https://go.gov.sg/finalextensiondataset)     |
