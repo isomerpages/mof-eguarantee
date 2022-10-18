@@ -18,6 +18,5 @@ description: ""
 | National Parks Board    | NParks| For dog licensing: [Link](https://www.nparks.gov.sg/avs/pets/owning-a-pet/licensing-a-pet/banker%E2%80%99s-guarantee )|
 | National Environment Agency    | NEA| [Link](https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/multilateral-environmental-agreements/basel-convention/application-for-basel-permit)|
 | Public Utilities Board    | PUB| - |
-| National Parks Board    | NParks    
-| Public Utilities Board    | PUB
-| Urban Redevelopment Authority    | URA
+| Singapore Land Authority    | SLA| - |    
+| Urban Redevelopment Authority    | URA| - |
