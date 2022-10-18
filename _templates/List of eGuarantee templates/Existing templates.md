@@ -14,7 +14,7 @@ Choose the right guarantee template based on the instructions by the Agency you 
 | GOV_REV_SEC |[GOV_REV_SEC.pdf](/files/GOV_REV_SEC.pdf)  | All participating agencies | Security Deposit Guarantee for Leases or Licenses of Premises/ Land |
 | GOV_LND_POS | [GOV_LND_POS.pdf](/files/GOV_LND_POS.pdf) | Predominantly by HDB, JTC and URA | Tender Deposit Guarantee for Price-Only Land Sale |
 | GOV_LND_POM |[GOV_LND_POM.pdf](/files/GOV_LND_POM.pdf)  | Predominantly by HDB, JTC and URA | Tender Deposit Guarantee for Price-Only Land Sale Tenders (One Joint Tenderers but not All Joint Tenderers) | 
-| GOV_LND_RLS | [Test PDF 1](/files/Isomer%20Test%20document%202.pdf) | Predominantly by HDB, JTC and URA |
+| GOV_LND_RLS | [GOV_LND_RLS.pdf](/files/GOV_LND_RLS.pdf) | Predominantly by HDB, JTC and URA | Application Deposit Guarantee for Reserve List Applications (Single Applicant or All Joint Applicants) |
 | GOV_LND_RLJ | [Test PDF 1](/files/Isomer%20Test%20document%202.pdf) | Predominantly by HDB, JTC and URA |
 |IRAS_GST | [Test PDF 2](/files/Isomer%20Test%20document.pdf) | IRAS only |
 |NEA_HAZ | [Test PDF 2](/files/Isomer%20Test%20document.pdf) | NEA only |
