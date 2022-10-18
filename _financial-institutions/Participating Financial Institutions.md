@@ -13,8 +13,8 @@ description: ""
 | CIMB Bank Berhad     | CIMB     | [Link](https://www.cimb.com.sg/en/business/help-support/forms-download-center.html)     |
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | -     |
+| Etiqa Insurance Pte Ltd     | EIPL     | -     |
 | Great Eastern General Insurance Limited     | GEG     | -     |
-| The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch     | HSBC     | [Link](https://www.hsbcnet.com/ )     |
 | India International Insurance Pte Ltd     | III     | -     |
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
 | Lonpac Insurance Bhd.     | LONPAC     | -     |
@@ -25,4 +25,5 @@ description: ""
 | Oversea-Chinese Banking Corporation     | OCBC     | [Link](https://www.ocbc.com/business-banking/smes/trade/electronic-bankers-guarantee)    |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
 | Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
+| The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch     | HSBC     | [Link](https://www.hsbcnet.com/ )     |
 | United Overseas Bank Limited    | UOB     | [Link](www.uob.com.sg/electronicbg)     |
