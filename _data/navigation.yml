@@ -14,7 +14,7 @@ links:
   - title: eGuarantee Templates
     url: /templates/List-of-eGuarantee-templates/existing
   - title: Resources
-    url: /permalink
+    url: /templates/List-of-eGuarantee-templates/datasets/
     sublinks:
       - title: Data sets
         url: /templates/List-of-eGuarantee-templates/datasets/
