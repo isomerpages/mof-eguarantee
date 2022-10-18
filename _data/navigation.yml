@@ -23,9 +23,4 @@ links:
       - title: Frequently Asked Questions
         url: /resources/FAQs/
   - title: Contact us
-    url: /joining-the-initiative/How-to-join/
-    sublinks:
-      - title: .
-        url: .
-      - title: Contact us
-        url: /joining-the-initiative/Contact-us/
+    url: /joining-the-initiative/Contact-us/
