@@ -25,4 +25,4 @@ eGuarantee@Gov is working to digitalise guarantees used by the Government. Pleas
 
 
 
-![](/images/workflow.jpg)
+![]()
