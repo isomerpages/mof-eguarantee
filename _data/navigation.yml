@@ -1,19 +1,24 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Home
-    url: /homepage
+  - title: Applying for an eGuarantee
+    url: /purchase-eguarantee/3steps/
+    sublinks:
+      - title: How It Works
+        url: /permalink/howitworks/
+      - title: 3 Easy Steps
+        url: /purchase-eguarantee/3steps
   - title: Financial Institutions
     url: /financial-institutions
   - title: Agencies
     url: /agencies
   - title: eGuarantee Templates
     url: /templates/List-of-eGuarantee-templates/existing
-  - title: Joining the initiative
-    url: /joining-the-initiative/How-to-join/
+  - title: Resources
+    url: /templates/List-of-eGuarantee-templates/datasets/
     sublinks:
-      - title: How to join
-        url: /joining-the-initiative/How-to-join/
-      - title: Onboarding NTP
-        url: /joining-onboarding/
-      - title: Contact us
-        url: /joining-contact-us/
+      - title: Data sets
+        url: /templates/List-of-eGuarantee-templates/datasets/
+      - title: Frequently Asked Questions
+        url: /resources/FAQs/
+  - title: Contact us
+    url: /joining-the-initiative/Contact-us/

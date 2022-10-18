@@ -1,0 +1,6 @@
+collections:
+  applying-for-an-eguarantee:
+    output: true
+    order:
+      - How it works.md
+      - 3 Easy Steps.md
