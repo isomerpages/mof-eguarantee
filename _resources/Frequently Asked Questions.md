@@ -17,3 +17,13 @@ You can apply for guarantees for i) procurement of general goods and services an
 ### How do I check on the status of my eGuarantee? Who should I contact regarding the status of my eGuarantee application.
 
 The bank or insurance company will inform you that it has issued the eGuarantee. Once your eGuarantee has been lodged successfully, the Agency will inform you on the next step of your procurement, revenue contracts, land sale tenders or licensing process. You may contact the Agency regarding the status of your eGuarantee if it has been lodged successfully.
+
+### How is eGuaranee@Gov different from the Electronic Bankers’ Guarantee Programme?
+
+eGuarantee@Gov is an expansion of the Electronic Bankers’ Guarantee Programme used by Singapore Customs. It will tap on the Networked Trade Platform (NTP) and include more types of guarantees required by government agencies. More Financial Institutions (FIs) will also participate so applicants can have more choices of the FI they wish to purchase eGuarantees from. FIs will also benefit from greater participation by applicants.
+
+### What is NTP?
+
+NTP is a one-stop trade and logistics ecosystem that connects players across the trade value chain both locally and abroad. It aims to provide the foundation for Singapore to be a leading trade, supply chain and trade financing hub.
+
+Visit [here](https://www.customs.gov.sg/businesses/national-single-window/networked-trade-platform) to find out more.
