@@ -11,16 +11,18 @@ description: ""
 | China Citic Bank International Limited Singapore Branch     | CNCBISG     | -     |
 | China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](www.sg.cntaiping.com)     |
 | CIMB Bank Berhad     | CIMB     | [Link](https://www.cimb.com.sg/en/business/help-support/forms-download-center.html)     |
-| Commerce International Merchant Bankers     | CIMB     | [TBC]     |
-| Credit Industriel et Commercial     | CIC     | [TBC]     |
-| Development Bank of Singapore     | DBS     | [TBC]     |
-| Great Eastern General Insurance     | GE     | [TBC]     |
-| Hong Kong and Shanghai Banking Corporation     | HSBC     | [TBC]     |
-| India International Insurance     | III     | [TBC]     |
-| Lonpac Insurance Bhd     | [TBC]     | [TBC]     |
-| Maybank     | [TBC]     | [TBC]     |
-| Mistubishi UFJ Financial Group Bank     | MUFG     | [TBC]     |
-| National Bank of Kuwait     | [TBC]     | [TBC]     |
+| Credit Industriel et Commercial     | CIC SG     | -     |
+| DBS Bank Ltd.     | DBS     | -     |
+| Great Eastern General Insurance Limited     | GEG     | -     |
+| The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch     | HSBC     | [Link](https://www.hsbcnet.com/ )     |
+| India International Insurance Pte Ltd     | III     | -     |
+| LGT Bank (Singapore) Ltd.     | LGTS     | -     |
+| Lonpac Insurance Bhd.     | LONPAC     | -     |
+| Maybank Singapore Limited     | MSL     | -     |
+| Malayan Banking Berhad Singapore Branch     | MBS     | -     |
+| MUFG Bank, Ltd. Singapore Branch     | MUFG Bank     | [Link](https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/singapore.html)     |
+| National Bank of Kuwait S.A.K.P.    | NBKSG     | -     |
 | Oversea-Chinese Banking Corporation     | OCBC     | [TBC]     |
-| Standard Chartered Bank     | SCB     | [TBC]     |
-| United Overseas Bank    | UOB     | [TBC]     |
+| Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
+| Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
+| United Overseas Bank Limited    | UOB     | [Link](www.uob.com.sg/electronicbg)     |
