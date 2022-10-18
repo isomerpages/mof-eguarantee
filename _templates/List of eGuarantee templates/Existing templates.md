@@ -20,6 +20,6 @@ Choose the right guarantee template based on the instructions by the Agency you 
 |NEA_HAZ | [NEA_HAZ.pdf](/files/NEA_HAZ.pdf) | NEA only | eGuarantee for Basel Permit Application for the Export, Import and Transit of Hazardous Wastes | 
 |CUSTOMS_REG| [CUSTOMS_REG.pdf](/files/CUSTOMS_REG.pdf) | Customs only | Security Deposit Guarantee for Compliance with Regulatory Requirements |
 |NPARKS_SBL| [NPARKS_SBL.pdf](/files/NPARKS_SBL.pdf) | NParks only | Security Deposit Guarantee to be furnished pursuant to Animals and Birds (Dog Licensing and Control) Rules |
-|MOM_EAL| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | MOM only |
+|MOM_EAL| [MOM_EAL.pdf](/files/MOM_EAL.pdf) | MOM only | Security Deposit Guarantee for Employment Agency (EA) License New/ Renewal Application |
 |JTC_REI| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | JTC only |
 |LTA_SWA | [Test PDF 2](/files/Isomer%20Test%20document.pdf) | LTA only |
