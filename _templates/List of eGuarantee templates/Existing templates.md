@@ -16,7 +16,7 @@ Choose the right guarantee template based on the instructions by the Agency you 
 | GOV_LND_POM |[GOV_LND_POM.pdf](/files/GOV_LND_POM.pdf)  | Predominantly by HDB, JTC and URA | Tender Deposit Guarantee for Price-Only Land Sale Tenders (One Joint Tenderers but not All Joint Tenderers) | 
 | GOV_LND_RLS | [GOV_LND_RLS.pdf](/files/GOV_LND_RLS.pdf) | Predominantly by HDB, JTC and URA | Application Deposit Guarantee for Reserve List Applications (Single Applicant or All Joint Applicants) |
 | GOV_LND_RLJ | [GOV_LND_RLJ.pdf](/files/GOV_LND_RLJ.pdf) | Predominantly by HDB, JTC and URA | Application Deposit Guarantee for Reserve List Applications (One Joint Applicant but not All Joint Applicants) |
-|IRAS_GST | [Test PDF 2](/files/Isomer%20Test%20document.pdf) | IRAS only |
+|IRAS_GST | [IRAS_GST.pdf](/files/IRAS_GST.pdf) | IRAS only | eGuarantee to support applications for GST registration or GST schemes |
 |NEA_HAZ | [Test PDF 2](/files/Isomer%20Test%20document.pdf) | NEA only |
 |CUSTOMS_REG| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | Customs only |
 |NPARKS_SBL| [Test PDF 2](/files/Isomer%20Test%20document.pdf) | NParks only |
