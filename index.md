@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: eGuarantee@Gov, an initiative to digitise paper-form guarantee processes
-  to reap time and cost savings.
+title: Digitalising the issuance and discharge of banker's guarantees and
+  insurance bonds.
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -24,3 +24,4 @@ sections:
       description: Save on courier charges and costs for physical storage of paper
         guarantees
 ---
+
