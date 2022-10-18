@@ -2,5 +2,4 @@ collections:
   joining-the-initiative:
     output: true
     order:
-      - How to join/Contact us.md
       - How to join/.keep
