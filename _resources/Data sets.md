@@ -6,7 +6,7 @@ description: ""
 # Introduction to data sets
 *Note: This segment is relevant to Agencies and Financial Institutions (FIs) only.*
 
-With the standardisation of eGuarantee templates, AGencies and FIs only need to send the data sets via the Networked Trade Platform (NTP) to transmit key information required to issue and eGuarantee.
+With the standardisation of eGuarantee templates, Agencies and FIs only need to send the data sets via the Networked Trade Platform (NTP) to transmit key information required to issue and eGuarantee.
 
 All data sets are sent in CSV format, each CSV contains the data set of a single eGuarantee.
 
