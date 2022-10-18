@@ -8,7 +8,7 @@ description: ""
 
 ### Why should I apply for an eGuarantee instead of a paper guarantee?
 
-You may enjoy a faster lodgement process. Typically, it takes you up to 5-7 days from application to delivery of the guarantee to the Agency. With eGuarantee@Gov, the application and issuance process can be completed within a day. You can also enjoy cost savings as there is no longer a need to collect the paper guarantee from the bank or insurance company and deliver them to the Agency.
+You can enjoy a faster lodgement process. Typically, it takes you up to 5-7 days from application to delivery of the guarantee to the Agency. With eGuarantee@Gov, the application and issuance process can be completed within a day. You can also enjoy cost savings as there is no longer a need to collect the paper guarantee from the bank or insurance company and deliver them to the Agency.
 
 ### What type of eGuarantee can I apply for?
 
