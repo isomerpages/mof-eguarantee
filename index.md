@@ -25,4 +25,5 @@ sections:
         guarantees
   - resources:
       title: Resources
+      button: Here
 ---
