@@ -3,8 +3,8 @@ title: 3 Easy Steps
 permalink: /purchase-eguarantee/3steps/
 description: ""
 ---
-# Step 1
-**Obtain the following details from the Agency when applying for an eGuarantee (see below for details and example).**
+# Step 1 - Retrieve
+**Retrieve the following details from the Agency when applying for an eGuarantee (see below for details and example).**
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1056;mso-padding-alt:
@@ -241,20 +241,15 @@ description: ""
   EN-SG">&nbsp;</span></p></td></tr></tbody></table>
 
 Please contact the Agency you are dealing with if you have any queries on your application details.
-# Step 2
-**Financial Institution will process your application and send the eGuarantee to the Agency**
+# Step 2 - Select
+**Select your preferred eGuarantee provider.**
 
-Your Financial Institution will inform you that your eGuarantee has been issued. There is no need for you to collect the eGuarantee and courier it to the Agency. 
+List of participating Financial Institutions can be found [here](/financial-institutions/)
+
+# Step 3 - Apply
+**Provide the relevant information to the FI**
+
+The FI will process your application and send the eGuarantee to the Agency. The Agency will process it and advise you on the next steps required. There is no need for you to collect the eGuarantee and courier it to the Agency. 
 
 *Note: No original hardcopy Guarantee will be issued.*
 
-# Step 3
-**Agency will process your eGuarantee**
-
-Once your eGuarantee has been lodged successfully, the Agency will inform you on the next steps required.
-
-
-
-
-
-Agencies will provide instructions on how to fill up your eGuarantee application. To purchase an eGuarantee from Financial Institutions [click here](/financial-institutions/). To view the list of eGuarantee templates in use currently [click here](/templates/List-of-eGuarantee-templates/existing/).
