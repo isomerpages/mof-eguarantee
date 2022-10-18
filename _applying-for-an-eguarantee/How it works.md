@@ -10,7 +10,7 @@ Guarantees are used by the Government:
 * As security deposits and tender deposits for procurement, revenue and land sales contracts; and
 * For licensing obligations/ regulatory requirements, e.g. employment agency licensing, dog breed licensing, GST registration, etc.
 
-eGuarantee@Gov is working to digitalise guarantees used by the Government. Please refer to LINK for more details on guarantees that have been digitalised under eGuarantee@Gov.
+eGuarantee@Gov is working to digitalise guarantees used by the Government. Please [click here](/templates/List-of-eGuarantee-templates/existing/) for more details on guarantees that have been digitalised under eGuarantee@Gov.
 
 # Benefits of eGuarantee@Gov
 
