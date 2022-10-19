@@ -12,14 +12,7 @@ links:
     url: /templates/List-of-eGuarantee-templates/existing
   - title: eGuarantee Data Sets
     url: /templates/List-of-eGuarantee-templates/datasets/
-  - title: Resources
-    url: /templates/List-of-eGuarantee-templates/datasets/
-    sublinks:
-      - title: Data sets
-        url: /templates/List-of-eGuarantee-templates/datasets/
-      - title: Frequently Asked Questions
-        url: /resources/FAQs/
-  - title: Contact us
-    url: /joining-the-initiative/Contact-us/
   - title: "Frequently Asked Questions "
     url: /resources/FAQs/
+  - title: Contact us
+    url: /joining-the-initiative/Contact-us/
