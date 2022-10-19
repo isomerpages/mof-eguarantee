@@ -1,4 +1,5 @@
 collections:
   eguarantee-data-sets:
     output: true
-    order: []
+    order:
+      - Data sets.md
