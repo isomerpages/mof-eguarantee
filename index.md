@@ -12,7 +12,7 @@ sections:
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
-      url: /permalink/howitworks/
+      url: /permalink/whyeguarantees/
       button: How it works
   - infobar:
       title: Seamless
