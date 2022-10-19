@@ -1,0 +1,5 @@
+collections:
+  why-eguarantees:
+    output: true
+    order:
+      - Why eGuarantees?.md

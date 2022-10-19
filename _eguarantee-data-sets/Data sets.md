@@ -3,7 +3,8 @@ title: Data sets
 permalink: /templates/List-of-eGuarantee-templates/datasets/
 description: ""
 ---
-# Introduction to data sets
+
+# Introduction to Data Sets
 *Note: This segment is relevant to Agencies and Financial Institutions (FIs) only.*
 
 With the standardisation of eGuarantee templates, Agencies and FIs only need to send the data sets via the Networked Trade Platform (NTP) to transmit key information required to issue and eGuarantee.

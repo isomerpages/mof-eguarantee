@@ -1,16 +1,11 @@
 ---
-title: How it works
-permalink: /permalink/howitworks/
+title: Why eGuarantees?
+permalink: /permalink/whyeguarantees/
 description: ""
 ---
-# What are Guarantees?
-When transacting with the Government, guarantees are issued by Financial Institutions as an undertaking that the business or individual will fulfill its contractual or licensing obligations/ regulatory requirements. They can be in the form of a banker's guarantee, insurer's guarantee or insurer's bond.
 
-Guarantees are used by the Government:
-* As security deposits and tender deposits for procurement, revenue and land sales contracts; and
-* For licensing obligations/ regulatory requirements, e.g. employment agency licensing, dog breed licensing, GST registration, etc.
-
-eGuarantee@Gov is working to digitalise guarantees used by the Government. Please [click here](/templates/List-of-eGuarantee-templates/existing/) for more details on guarantees that have been digitalised under eGuarantee@Gov.
+# Why eGuarantees?
+Today, businesses and individuals (applicants) apply for or purchase banker's guarantees and insurance bonds from financial institutions (FIs) such as banks and insurers. They then deliver the paper-form of these guarantees and bonds to Government Agencies to meet contractual or licensing requirements. eGuarantee@Gov digitises this process to enable applicants, FIs and Agencies to reap time and cost savings.
 
 # Benefits of eGuarantee@Gov
 

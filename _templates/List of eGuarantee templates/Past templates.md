@@ -7,4 +7,4 @@ third_nav_title: List of eGuarantee templates
 # Past templates
 You may refer to the past templates here.
 
-Please refer to the existing templates tab for existing eGuarantee templates.
+Please refer to [eGuarantee templates](/templates/List-of-eGuarantee-templates/existing/) for existing eGuarantee templates.

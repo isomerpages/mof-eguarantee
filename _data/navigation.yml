@@ -1,24 +1,14 @@
 logo: /images/Logo.jpg
 links:
-  - title: Applying for an eGuarantee
-    url: /purchase-eguarantee/3steps/
-    sublinks:
-      - title: How It Works
-        url: /permalink/howitworks/
-      - title: 3 Easy Steps
-        url: /purchase-eguarantee/3steps
+  - title: Why eGuarantees?
+    url: /permalink/whyeguarantees/
+  - title: Apply for an eGuarantee
+    url: /purchase-eguarantee/3steps
   - title: Financial Institutions
     url: /financial-institutions
   - title: Agencies
     url: /agencies
   - title: eGuarantee Templates
     url: /templates/List-of-eGuarantee-templates/existing
-  - title: Resources
+  - title: eGuarantee Data Sets
     url: /templates/List-of-eGuarantee-templates/datasets/
-    sublinks:
-      - title: Data sets
-        url: /templates/List-of-eGuarantee-templates/datasets/
-      - title: Frequently Asked Questions
-        url: /resources/FAQs/
-  - title: Contact us
-    url: /joining-the-initiative/Contact-us/

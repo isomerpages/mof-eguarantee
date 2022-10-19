@@ -7,6 +7,7 @@ contacts:
   - content:
       - phone: ""
       - email: MOF-DG-WG-Join-Secretariat@mof.gov.sg
-      - other: ""
-    title: "General Enquiries "
+      - other: Please reach us at the above if you have any general queries on
+          eGuarantee@Gov, or are an FI or Agency looking to participate.
+    title: General Enquiries
 ---
