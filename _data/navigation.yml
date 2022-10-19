@@ -10,6 +10,8 @@ links:
     url: /agencies
   - title: eGuarantee Templates
     url: /templates/List-of-eGuarantee-templates/existing
+  - title: eGuarantee Data Sets
+    url: /templates/List-of-eGuarantee-templates/datasets/
   - title: Resources
     url: /templates/List-of-eGuarantee-templates/datasets/
     sublinks:
