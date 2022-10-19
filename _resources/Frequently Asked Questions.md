@@ -3,9 +3,17 @@ title: Frequently Asked Questions
 permalink: /resources/FAQs/
 description: ""
 ---
-
 # Frequently Asked Questions
 
+
+# What are Guarantees?
+When transacting with the Government, guarantees are issued by Financial Institutions as an undertaking that the business or individual will fulfill its contractual or licensing obligations/ regulatory requirements. They can be in the form of a banker's guarantee, insurer's guarantee or insurer's bond.
+
+Guarantees are used by the Government:
+* As security deposits and tender deposits for procurement, revenue and land sales contracts; and
+* For licensing obligations/ regulatory requirements, e.g. employment agency licensing, dog breed licensing, GST registration, etc.
+
+eGuarantee@Gov is working to digitalise guarantees used by the Government. Please [click here](/templates/List-of-eGuarantee-templates/existing/) for more details on guarantees that have been digitalised under eGuarantee@Gov.
 
 ### Why should I apply for an eGuarantee instead of a paper guarantee?
 
