@@ -4,17 +4,14 @@ permalink: /templates/List-of-eGuarantee-templates/existing/
 description: ""
 third_nav_title: List of eGuarantee templates
 ---
-
-
-
 Choose the right guarantee template based on the instructions by the Agency you are dealing with.
 
 | Template Reference | Document |Agencies Using | Template Description| 
 | -------- | -------- | -------- |-------- |
-| GOV_POC_FD | [GOV_POC_FD.pdf](/files/GOV_POC_FD.pdf) | All participating agencies | Security Deposit Guarantee for Fixed Duration Procurement Contracts/ Advance Payment Guarantee for Procurement Contracts|
-| GOV_POC_NFD |[GOV_POC_NFD.pdf](/files/GOV_POC_NFD.pdf) | All participating agencies | Security Deposit Guarantee for Non-Fixed Duration Procurement Contracts |
-| GOV_REV_TDR | [GOV_REV_TDR.pdf](/files/GOV_REV_TDR.pdf)| All participating agencies | Tender Deposit Guarantee for Leases or Licenses of Premises/ Land |
-| GOV_REV_SEC |[GOV_REV_SEC.pdf](/files/GOV_REV_SEC.pdf)  | All participating agencies | Security Deposit Guarantee for Leases or Licenses of Premises/ Land |
+| GOV_POC_FD | [GOV_POC_FD.pdf](/files/GOV_POC_FD.pdf) | All participating Agencies | Security Deposit Guarantee for Fixed Duration Procurement Contracts/ Advance Payment Guarantee for Procurement Contracts|
+| GOV_POC_NFD |[GOV_POC_NFD.pdf](/files/GOV_POC_NFD.pdf) | All participating Agencies | Security Deposit Guarantee for Non-Fixed Duration Procurement Contracts |
+| GOV_REV_TDR | [GOV_REV_TDR.pdf](/files/GOV_REV_TDR.pdf)| All participating Agencies | Tender Deposit Guarantee for Leases or Licenses of Premises/ Land |
+| GOV_REV_SEC |[GOV_REV_SEC.pdf](/files/GOV_REV_SEC.pdf)  | All participating Agencies | Security Deposit Guarantee for Leases or Licenses of Premises/ Land |
 | GOV_LND_POS | [GOV_LND_POS.pdf](/files/GOV_LND_POS.pdf) | Predominantly by HDB, JTC and URA | Tender Deposit Guarantee for Price-Only Land Sale |
 | GOV_LND_POM |[GOV_LND_POM.pdf](/files/GOV_LND_POM.pdf)  | Predominantly by HDB, JTC and URA | Tender Deposit Guarantee for Price-Only Land Sale Tenders (One Joint Tenderers but not All Joint Tenderers) | 
 | GOV_LND_RLS | [GOV_LND_RLS.pdf](/files/GOV_LND_RLS.pdf) | Predominantly by HDB, JTC and URA | Application Deposit Guarantee for Reserve List Applications (Single Applicant or All Joint Applicants) |
