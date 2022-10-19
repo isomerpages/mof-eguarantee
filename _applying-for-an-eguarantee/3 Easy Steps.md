@@ -3,7 +3,6 @@ title: 3 Easy Steps
 permalink: /purchase-eguarantee/3steps/
 description: ""
 ---
-
 # Step 1: Retrieve
 **Retrieve the following details from the Agency when applying for an eGuarantee (see below for details and example).**
 
@@ -25,7 +24,7 @@ Please contact the Agency you are dealing with if you have any queries on your a
 # Step 2: Select
 **Select your preferred eGuarantee provider.**
 
-List of participating Financial Institutions can be found [here](/financial-institutions/).
+The list of participating Financial Institutions can be found [here](/financial-institutions/).
 
 # Step 3: Apply
 **Provide the relevant information to the FI**
