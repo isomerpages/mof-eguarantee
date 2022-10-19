@@ -4,7 +4,7 @@ permalink: /purchase-eguarantee/3steps/
 description: ""
 ---
 # Step 1: Retrieve
-**Retrieve the following details from the Agency when applying for an eGuarantee (see below for details and example).**
+**Retrieve the following details from the Agency you are dealing with when applying for an eGuarantee (see below for details and example).**
 
 |Application Details | Description | Example | 
 | -------- | -------- | -------- | 
