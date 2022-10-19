@@ -2,5 +2,4 @@ collections:
   faqs:
     output: true
     order:
-      - Data sets.md
       - Frequently Asked Questions.md
