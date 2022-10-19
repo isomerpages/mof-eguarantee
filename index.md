@@ -13,7 +13,7 @@ sections:
       title: Swift
       description: Guarantees can be issued in less than 1 day
       url: /permalink/whyeguarantees/
-      button: How it works
+      button: Why eGuarantees?
   - infobar:
       title: Seamless
       description: Apply for eGuarantees in 3 easy steps
