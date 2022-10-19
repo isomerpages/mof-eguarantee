@@ -1,4 +1,5 @@
 collections:
   why-eguarantees:
     output: true
-    order: []
+    order:
+      - Why eGuarantees?.md
