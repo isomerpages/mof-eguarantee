@@ -1,5 +1,5 @@
 collections:
-  joining-the-initiative:
+  contact-us:
     output: true
     order:
       - Contact us.md
