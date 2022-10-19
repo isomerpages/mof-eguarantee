@@ -2,13 +2,8 @@ logo: /images/Logo.jpg
 links:
   - title: Why eGuarantees?
     url: /permalink/whyeguarantees/
-  - title: Applying for an eGuarantee
-    url: /purchase-eguarantee/3steps/
-    sublinks:
-      - title: Why eGuarantees
-        url: /permalink/howitworks/
-      - title: 3 Easy Steps
-        url: /purchase-eguarantee/3steps
+  - title: Apply for an eGuarantee
+    url: /purchase-eguarantee/3steps
   - title: Financial Institutions
     url: /financial-institutions
   - title: Agencies
