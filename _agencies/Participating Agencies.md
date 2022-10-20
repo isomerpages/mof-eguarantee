@@ -19,6 +19,6 @@ description: ""
 | National Environment Agency    | NEA| [Link](https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/multilateral-environmental-agreements/basel-convention/application-for-basel-permit)|
 | Parliament of Singapore    | Parl | - |
 | Public Utilities Board    | PUB| - |
-| Singapore Customs    | Customs| - |
+| Singapore Customs    | Customs| [Link](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |
 | Singapore Land Authority    | SLA| - |    
 | Urban Redevelopment Authority    | URA| [Link](https://www.ura.gov.sg/Corporate/Land-Sales) |
