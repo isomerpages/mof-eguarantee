@@ -24,4 +24,5 @@ description: ""
 | Urban Redevelopment Authority    | URA| [Link](https://www.ura.gov.sg/Corporate/Land-Sales) |
 
 <br>
-(#_ftnref1) 
+
+[\[1\]](#_ftnref1) If the Beneficiary is a Government Agency listed in the table above, or a Statutory Board acting as an agent of the Government, 
