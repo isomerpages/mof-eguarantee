@@ -3,7 +3,6 @@ title: Participating Agencies
 permalink: /agencies/
 description: ""
 ---
-
 | Agency  | Acronym | Website | 
 | -------- | -------- |-------- | 
 | Central Provident Fund Board    | CPFB| - |     
@@ -22,4 +21,4 @@ description: ""
 | Public Utilities Board    | PUB| - |
 | Singapore Customs    | Customs| - |
 | Singapore Land Authority    | SLA| - |    
-| Urban Redevelopment Authority    | URA| - |
+| Urban Redevelopment Authority    | URA| [Link](https://www.ura.gov.sg/Corporate/Land-Sales) |
