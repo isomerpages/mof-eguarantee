@@ -14,7 +14,7 @@ description: ""
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/sme/trade/electronic-bankers-guarantee-programme?pk_source=google&pk_medium=organic&pk_campaign=seo)     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
-| Great Eastern General Insurance Limited     | GEG     | -     |
+| Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
 | India International Insurance Pte Ltd     | III     | -     |
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
 | Lonpac Insurance Bhd.     | LONPAC     | -     |
