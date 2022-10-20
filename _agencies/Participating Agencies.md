@@ -25,4 +25,4 @@ description: ""
 
 <br>
 
-[\[1\]](#_ftnref1) If the Beneficiary is a Government Agency listed in the table above, or a Statutory Board acting as an agent of the Government, 
+[\[1\]](#_ftnref1) If the Beneficiary is a Government Agency listed in the table above, or a Statutory Board acting as an agent of the Government, using the Acronym signifies "The Government of the Republic of Singapore, as represented by [Acronym of Ministry/ department within Ministry/ Organ of State/ Statutory Board]". If the Beneficiary is a Statutory Board, the Acronym used signifies the Statutory Board.
