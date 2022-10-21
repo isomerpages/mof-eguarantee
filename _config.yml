@@ -1,5 +1,4 @@
-title: Digitalising the issuance and discharge of banker's guarantees and
-  insurance bonds.
+title: eGuarantee@Gov
 url: https://www.eguarantee.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -16,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: ""
 permalink: none
 baseurl: ""
 exclude:

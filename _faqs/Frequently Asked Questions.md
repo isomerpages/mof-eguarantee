@@ -6,7 +6,7 @@ description: ""
 # Frequently Asked Questions
 
 
-# What are Guarantees?
+### What are Guarantees?
 Guarantees are issued by Financial Institutions as an undertaking that the business or individual will fulfill its contractual or licensing obligations/ regulatory requirements. They can be in the form of a banker's guarantee, insurer's guarantee or insurer's bond.
 
 Guarantees are used by the Government:

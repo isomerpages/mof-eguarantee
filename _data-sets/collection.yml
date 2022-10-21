@@ -1,5 +1,5 @@
 collections:
-  eguarantee-data-sets:
+  data-sets:
     output: true
     order:
       - Data sets.md
