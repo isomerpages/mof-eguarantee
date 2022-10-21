@@ -7,7 +7,7 @@ permalink: /
 notification: "NOTICE: eGuarantee@Gov will be publicly launched in early November 2022."
 sections:
   - hero:
-      background: /images/Head Banner V1 (cropped).jpg
+      background: /images/banner revised.jpg
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
@@ -23,4 +23,3 @@ sections:
       description: Save on courier charges and costs for physical storage of paper
         guarantees
 ---
-
