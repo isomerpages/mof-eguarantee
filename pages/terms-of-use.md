@@ -16,10 +16,8 @@ permalink: /terms-of-use/
 7. The Intellectual Property Rights in the Services, including any Content, are owned by or licensed to us. You shall not infringe the Intellectual Property Rights in the Services, including the Content.
 8. We do not represent or warrant that your access to and use of the Services will not constitute an infringement or misuse of the rights and interests of any other person, including the Intellectual Property Rights belonging to such person.
 9. You shall not remove, obscure or alter any copyright notices, proprietary rights notices, trademarks, service marks, trade names or logos contained within, applied to or made available or accessible in conjunction with or through the Services.
-10. In clauses 7 and 8, "Intellectual Property Rights" includes patents, registered and unregistered design rights, industrial design rights, copyrights, trademarks, service marks, trade names, domain names, logos, database rights and other intellectual property rights, whether existing now or in the future, which are capable of protection in any relevant country in the world. 
-
+10. In clauses 7 and 8, "Intellectual Property Rights" includes patents, registered and unregistered design rights, industrial design rights, copyrights, trademarks, service marks, trade names, domain names, logos, database rights and other intellectual property rights, whether existing now or in the future, which are capable of protection in any relevant country in the world. <BR>
 #### Usage Terms
-
 11. You shall not, and shall not permit any other person to:
 <br>(a) modify, reverse-engineer, decompile, adapt, publish, re-distrubute or sub-license any part of the Servies, or interfere or intercept any transaction which is part of the Services, without our prior consent;
 <br>(b) access or use the Services for any commercial purposes, including renting, selling or leasing the Services (or any part thereof) to any other person, or directly or indirectly charging any other person for access to or use of the Services (or any part thereof);
@@ -31,9 +29,7 @@ permalink: /terms-of-use/
 				<br><br> (ii) intercept, expropriate or destroy any Content or personal data; or
 				<br><br> (iii) introduce security vulnerabilities to the services;
 <br>(g)access or use the Services in any manner that could damage, disrupt, disable, overburden or impair the operation of the Services, interfere with access to or use of the Services by any other person, or impose an unreasonable or disproportionately large load on any system or server used in the provision of the Services; and
-<br>(h) access any Content not intended for you.
-		
-
+<br>(h) access any Content not intended for you.<BR>
 #### Our Rights
 12. We may, at any time and at our sole discretion:
 <br> (a) enhance, upgrade, reduce or otherwise modify the functionalities or features of the Services (or any part thereof), in which case, these Terms will apply to all such enhancements, upgrades, reductions or modifications;
