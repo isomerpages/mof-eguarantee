@@ -62,5 +62,16 @@ permalink: /terms-of-use/
 20. You shall not create a cache or hyperlink to or frame any part of the Services unless you have obtained our prior written consent. If you create a cache or hyperlink to or frame any part of the Services, that shall constitute your acceptance to these Terms. You must immediately discontinue caching or hyperlinking to or framing any part of the Services if you do not accept any of these Terms.
 21. We may, at any time and at our sole discretion disable or change the URL of the Website. You create any links to the Website at your own risk.
 22. We may, at any time and at our sole discretion, object to or disable any links to or frames of any part of the Services without having to notify you or assign any reason, and without being liable or responsible to you for any loss or compensation.
+
 #### Privacy Statement
 23. We may handle, collect, use, disclose or otherwise process personal data belonging to you in the course of your access to and use of the Services. We will handle, collect, use, disclose or otherwise process such personal data in accordance with our privacy statement, as may be amended by us from time to time (accessible at [link](https://www.mof.gov.sg/privacy-statement) or such other URL as may be specified by us from time to time) (our "Privacy Statement").
+24. Please refer to our Privacy Statement for more details. By accessing or using the Services, you acknowledge that you have read and understood our Privacy Statement and agreed to comply with and be legally bound by our Privacy Statement. You must not access or use the Services if you do not accept any of the terms of our Privacy Statement. The Privacy Statement forms an integral part of these Terms.
+
+#### Severability  
+25. If any provision in these Terms is determined to be illegal, invalid or unenforceable, in whole or in part, such provision or part of it shall, to the extent it is illegal, invalid or unenforceable, be deemed not to form part of these Terms and the legality, validity and enforceability of the remainder of these Terms shall not be affected.
+
+#### Consent  
+26. Any consent given under these Terms may be subject to such conditions as we consider appropriate.
+
+#### Governing Law  
+27. These Terms shall be subject to, governed by and construed in accordance with laws of Singapore, and your irrevocably agree that the courts of Singapore shall have exclusive jurisdiction to determine any dispute which may arise out of or in connection with these Terms. You irrevocably submit to the jurisdiction of such courts.
