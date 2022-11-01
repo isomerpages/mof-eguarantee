@@ -22,4 +22,10 @@ sections:
       title: Savings
       description: Save on courier charges and costs for physical storage of paper
         guarantees
+  - infobar:
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/pQogHDIoRtc" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
 ---
