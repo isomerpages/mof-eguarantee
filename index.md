@@ -4,7 +4,7 @@ title: eGuarantee@Gov
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "NOTICE: eGuarantee@Gov will be publicly launched in early November 2022."
+notification: ""
 sections:
   - hero:
       background: /images/banner revised (cropped-1).jpg
