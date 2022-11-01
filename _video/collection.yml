@@ -1,4 +1,5 @@
 collections:
   video:
     output: true
-    order: []
+    order:
+      - eGuarantee@Gov Video.md
