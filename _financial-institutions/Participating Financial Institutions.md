@@ -7,7 +7,7 @@ description: ""
 | -------- | -------- | -------- |
 | Banco Santander, S.A.     | BSCH SG     |  [Link](https://www.santander.com/en/home)    |
 |Bank of China Limited     | BOC |  [Link](https://www.bankofchina.com/sg/cbservice/cb3/)    |
-| BNP Paribas     | BNP     | -     |
+| BNP Paribas     | BNP     | [Link](https://apac.bnpparibas/en/our-solutions/global-banking/)     |
 | China Citic Bank International Limited Singapore Branch     | CNCBISG     | -     |
 | China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](https://www.sg.cntaiping.com)     |
 | CIMB Bank Berhad     | CIMB     | [Link](https://www.cimb.com.sg/en/business/help-support/forms-download-center.html)     |
