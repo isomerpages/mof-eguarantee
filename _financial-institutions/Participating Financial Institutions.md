@@ -27,3 +27,7 @@ description: ""
 | Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
 | The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch     | HSBC     | [Link](https://www.hsbcnet.com/ )     |
 | United Overseas Bank Limited    | UOB     | [Link](https://www.uob.com.sg/electronicbg)     |
+
+
+
+[\[1\]](#_ftnref1) If link is unavailable, please contact the participating FI for more information.
