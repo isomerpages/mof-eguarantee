@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner revised (cropped-1).jpg
+      background: /images/banner (2-cropped).png
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
@@ -22,4 +22,7 @@ sections:
       title: Savings
       description: Save on courier charges and costs for physical storage of paper
         guarantees
+  - resources:
+      title: Media Releases
+      button: Find out more here
 ---

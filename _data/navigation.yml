@@ -1,5 +1,7 @@
 logo: /images/Revised Logo.jpg
 links:
+  - title: About us
+    url: /about-us/
   - title: Why eGuarantees?
     url: /permalink/whyeguarantees/
   - title: Apply
