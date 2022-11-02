@@ -2,11 +2,11 @@ title: eGuarantee@Gov
 url: https://www.eguarantee.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#811c13"
+  secondary-color: "#811c13"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#811c13"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
