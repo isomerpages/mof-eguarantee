@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner 2 Nov 2022 (cropped).png
+      background: /images/banner 2 (2-cropped).png
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
