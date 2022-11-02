@@ -24,4 +24,5 @@ sections:
         guarantees
   - resources:
       title: Media Releases
+      button: Find out more here
 ---
