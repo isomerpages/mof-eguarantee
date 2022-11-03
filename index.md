@@ -29,4 +29,7 @@ sections:
       title: Savings
       description: Save on courier charges and costs for physical storage of paper
         guarantees
+  - resources:
+      title: Media Releases
+      button: Find out more here
 ---
