@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner (2-cropped).png
+      background: /images/banner2 (resized).png
   - infobar:
       title: eGuarantee@Gov
       description: <iframe width="560" height="315"
