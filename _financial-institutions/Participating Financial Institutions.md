@@ -12,7 +12,7 @@ description: ""
 | China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](https://www.sg.cntaiping.com)     |
 | CIMB Bank Berhad     | CIMB     | [Link](https://www.cimb.com.sg/en/business/help-support/forms-download-center.html)     |
 | Credit Industriel et Commercial     | CIC SG     | -     |
-| DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/sme/trade/electronic-bankers-guarantee-programme?pk_source=google&pk_medium=organic&pk_campaign=seo)     |
+| DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/sme/trade/electronic-bankers-guarantee-programme?pk_source=typed&pk_medium=direct&pk_campaign=bookmarked)     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
 | India International Insurance Pte Ltd     | III     | -     |
