@@ -31,5 +31,5 @@ sections:
         guarantees
   - resources:
       title: Media Releases
-      button: Resources Button Name
+      button: Find out more
 ---
