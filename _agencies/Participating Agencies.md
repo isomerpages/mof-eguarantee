@@ -18,7 +18,7 @@ description: ""
 | National Parks Board    | NParks| For dog licensing: [Link](https://www.nparks.gov.sg/avs/pets/owning-a-pet/licensing-a-pet/banker%E2%80%99s-guarantee )|
 | National Environment Agency    | NEA| [Link](https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/multilateral-environmental-agreements/basel-convention/application-for-basel-permit)|
 | Parliament of Singapore    | Parl | - |
-| Public Utilities Board    | PUB| - |
+| Public Utilities Board    | PUB| [Link](https://www.pub.gov.sg/Pages/eGuaranteeGov.aspx) |
 | Singapore Customs    | Customs| [Link](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |
 | Singapore Land Authority    | SLA| - |    
 | Urban Redevelopment Authority    | URA| [Link](https://www.ura.gov.sg/Corporate/Land-Sales) |
