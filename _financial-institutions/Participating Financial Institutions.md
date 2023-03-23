@@ -11,6 +11,7 @@ description: ""
 | China Citic Bank International Limited Singapore Branch     | CNCBISG     | -     |
 | China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](https://www.sg.cntaiping.com)     |
 | CIMB Bank Berhad     | CIMB     | [Link](https://www.cimb.com.sg/en/business/help-support/forms-download-center.html)     |
+| Credit Agricole Corporate and Investment Bank     | CACIB     | -     |
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/corporate/solutions/trade-and-supply-chain-finance/electronic-bankers-guarantee-programme)     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
