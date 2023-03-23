@@ -11,12 +11,16 @@ description: ""
 | China Citic Bank International Limited Singapore Branch     | CNCBISG     | -     |
 | China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](https://www.sg.cntaiping.com)     |
 | CIMB Bank Berhad     | CIMB     | [Link](https://www.cimb.com.sg/en/business/help-support/forms-download-center.html)     |
+| Credit Agricole Corporate and Investment Bank     | CACIB     | -     |
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/corporate/solutions/trade-and-supply-chain-finance/electronic-bankers-guarantee-programme)     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
+| Euler Hermes Singapore Branch     | EUH     | -     |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
 | India International Insurance Pte Ltd     | III     | -     |
+| Kookmin Bank Co., Ltd. Singapore Branch     | KBSG     | -     |
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
+| Liberty Insurance Pte Ltd     | Liberty Insurance     | -     |
 | Lonpac Insurance Bhd.     | LONPAC     | -     |
 | Maybank Singapore Limited     | MSL     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
@@ -24,6 +28,7 @@ description: ""
 | National Bank of Kuwait S.A.K.P.    | NBKSG     | -     |
 | Oversea-Chinese Banking Corporation     | OCBC     | [Link](https://www.ocbc.com/business-banking/smes/trade/electronic-bankers-guarantee)    |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
+| Sumitomo Mitsui Banking Corporation, Singapore Branch     | SMBC     | -     |
 | Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
 | The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch     | HSBC     | [Link](https://www.hsbcnet.com/ )     |
 | United Overseas Bank Limited    | UOB     | [Link](https://www.uob.com.sg/electronicbg)     |
