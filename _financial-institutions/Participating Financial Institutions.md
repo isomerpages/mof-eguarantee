@@ -35,6 +35,5 @@ description: ""
 
 
 
-[\[1\]](#_ftnref1) If link is unavailable, please contact the participating FI for more information.
-
-[\[2\]](#_ftnref2) If link is unavailable, please contact the participating FI for more information.
+[\[1\]](#_ftnref1) If link is unavailable, please contact the participating FI for more information.<br>
+[\[2\]](#_ftnref2) China Taiping Insurance (Singapore) Pte. Ltd. will only be able to issue eGuarantees at a later date.
