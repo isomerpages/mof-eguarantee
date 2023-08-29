@@ -1,6 +1,6 @@
 ---
 title: Past templates
-permalink: /templates/List-of-eGuarantee-templates/past/
+permalink: /templates/list-of-eguarantee-templates/past/
 description: ""
 third_nav_title: List of eGuarantee templates
 ---

@@ -1,6 +1,6 @@
 ---
 title: eGuarantee templates
-permalink: /templates/List-of-eGuarantee-templates/existing/
+permalink: /templates/list-of-eguarantee-templates/existing/
 description: ""
 third_nav_title: List of eGuarantee templates
 ---

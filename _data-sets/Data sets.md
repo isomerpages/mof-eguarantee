@@ -1,6 +1,6 @@
 ---
 title: Data sets
-permalink: /templates/List-of-eGuarantee-templates/datasets/
+permalink: /templates/list-of-eguarantee-templates/datasets/
 description: ""
 ---
 

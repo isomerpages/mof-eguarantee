@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /resources/FAQs/
+permalink: /resources/faqs/
 description: ""
 ---
 # Frequently Asked Questions
