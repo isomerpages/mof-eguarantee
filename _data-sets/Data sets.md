@@ -3,7 +3,6 @@ title: Data sets
 permalink: /templates/list-of-eguarantee-templates/datasets/
 description: ""
 ---
-
 # Introduction to Data Sets
 *Note: This segment is relevant to Agencies and Financial Institutions (FIs) only.*
 
