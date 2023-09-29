@@ -19,12 +19,12 @@ description: ""
 | Credit Agricole Corporate and Investment Bank     | CACIB     | -     |
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/corporate/solutions/trade-and-supply-chain-finance/electronic-bankers-guarantee-programme)     |
-| ECICS Limited     | ECICS     | -     |
+| ECICS Limited     | ECICS     | [Link](https://www.ecics.com.sg)     |
 | EQ Insurance Company Limited     | EQI     | [Link](https://www.eqinsurance.com.sg)     |
 | ERGO Insurance Pte. Ltd.     | ERGO    | -     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
 | Euler Hermes Singapore Branch     | EUH     | -     |
-| FWD Singapore Pte Ltd     | FWD   | -     |
+| FWD Singapore Pte Ltd     | FWD   | [Link](https://www.fwd.com.sg)     |
 | Great American Insurance Company     | GAIC     | [Link](https://www.gaic.com.sg)    |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
 | HL Assurance Pte. Ltd.     | HLAS     | -     |
