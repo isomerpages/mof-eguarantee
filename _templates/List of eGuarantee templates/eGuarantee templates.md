@@ -25,4 +25,4 @@ Choose the right guarantee template based on the instructions by the Agency you 
 |15 |LTA_SWA | [LTA_SWA.pdf](/files/lta_swa.pdf) | LTA | For Security Deposits Pursuant to Section 20(2) of the Street Works Act Where a Person is Required to Deposit or Secure a Sum for the Execution of Street Works Under Section 16 or 18 of the Street Works Act
 |16 |GOV_UT | [GOV_UT.pdf](/files/gov_ut.pdf) | All Agencies | For use cases that require an on-demand guarantee
 |17 |MOM_SB | [MOM_SB.pdf](/files/mom_sb.pdf) | MOM - Migrant Worker Bond | For **insurance companies** issuing a guarantee for MOM's Migrant Worker Bond use cases 
-|18 |MOM_SB_MW | | MOM - Migrant Worker Bond | For **banks** issuing a guarantee for MOM's Migrant Worker Bond use cases
+|18 |MOM_SB_MW | [MOM_SB_MW.pdf](/files/mom_sb_mw.pdf) | MOM - Migrant Worker Bond | For **banks** issuing a guarantee for MOM's Migrant Worker Bond use cases
