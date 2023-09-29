@@ -27,7 +27,7 @@ description: ""
 | FWD Singapore Pte Ltd     | FWD   | [Link](https://www.fwd.com.sg)     |
 | Great American Insurance Company     | GAIC     | [Link](https://www.gaic.com.sg)    |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
-| HL Assurance Pte. Ltd.     | HLAS     | -     |
+| HL Assurance Pte. Ltd.     | HLAS     | [Link](https://www.hlas.com.sg)    |
 | HL Bank    | HL Bank     | [Link](https://www.hlbank.com.sg)     |
 | Hong Leong Finance Limited    | HLF    | -     |
 | HSBC Life (Singapore) Pte. Ltd.     | HLS     | -     |
@@ -52,7 +52,7 @@ description: ""
 | Sing Investments &amp; Finance Ltd     | SIF    | -     |
 | Sompo Insurance Singapore Pte. Ltd.     | SOM    | -     |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
-| State Bank of India     | SBI     | -     |
+| State Bank of India     | SBI     | [Link](https://sg.statebank/trade-finance)    |
 | Sumitomo Mitsui Banking Corporation, Singapore Branch     | SMBC     | -     |
 | Sumitomo Trust Bank, Limited Singapore Branch      | SMTB      | -     |
 | Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
