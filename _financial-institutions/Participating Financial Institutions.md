@@ -20,6 +20,7 @@ description: ""
 | Great American Insurance Company     | GAIC     | -     |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
 | HL Bank    | HL Bank     | -     |
+| Hong Leong Finance Limited    | HLF    | -     |
 | HSBC Life (Singapore) Pte. Ltd.     | HLS     | -     |
 | India International Insurance Pte Ltd     | III     | -     |
 | Kookmin Bank Co., Ltd. Singapore Branch     | KBSG     | -     |
@@ -29,8 +30,9 @@ description: ""
 | Lonpac Insurance Bhd.     | LONPAC     | -     |
 | Maybank Singapore Limited     | MSL     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
-| MS First Capital Insurance Limited     | FCL     | -     |
 | Mizuho Bank, Ltd.     | Mizuho SG     | -     |
+| MSIG Insurance (Singapore) Pte Ltd     | MSIG     | -     |
+| MS First Capital Insurance Limited     | FCL     | -     |
 | MUFG Bank, Ltd. Singapore Branch     | MUFG Bank     | [Link](https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/singapore.html)     |
 | National Bank of Kuwait S.A.K.P.    | NBKSG     | -     |
 | Oversea-Chinese Banking Corporation     | OCBC     | [Link](https://www.ocbc.com/business-banking/smes/trade/electronic-bankers-guarantee)    |
