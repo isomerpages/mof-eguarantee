@@ -33,6 +33,7 @@ description: ""
 | Oversea-Chinese Banking Corporation     | OCBC     | [Link](https://www.ocbc.com/business-banking/smes/trade/electronic-bankers-guarantee)    |
 | Singapore Life Ltd    | Singlife    | -     |
 | Sing Investments &amp; Finance Ltd     | SIF    | -     |
+| Sompo Insurance Singapore Pte. Ltd.     | SOM    | -     |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
 | Sumitomo Mitsui Banking Corporation, Singapore Branch     | SMBC     | -     |
 | Sumitomo Trust Bank, Limited Singapore Branch      | SMTB      | -     |
