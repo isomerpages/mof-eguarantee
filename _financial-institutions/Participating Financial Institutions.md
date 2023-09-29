@@ -20,7 +20,7 @@ description: ""
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/corporate/solutions/trade-and-supply-chain-finance/electronic-bankers-guarantee-programme)     |
 | ECICS Limited     | ECICS     | -     |
-| EQ Insurance Company Limited     | EQI     | -     |
+| EQ Insurance Company Limited     | EQI     | [Link](https://www.eqinsurance.com.sg)     |
 | ERGO Insurance Pte. Ltd.     | ERGO    | -     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
 | Euler Hermes Singapore Branch     | EUH     | -     |
