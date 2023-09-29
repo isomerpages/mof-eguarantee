@@ -56,7 +56,7 @@ description: ""
 | Sumitomo Mitsui Banking Corporation, Singapore Branch     | SMBC     | -     |
 | Sumitomo Trust Bank, Limited Singapore Branch      | SMTB      | -     |
 | Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
-| The Bank of East Asia, Limited, Sinapore Branch     | BEASG     | -     |
+| The Bank of East Asia, Limited, Singapore Branch     | BEASG     | -     |
 | Tokio Marine Insurance Singapore Ltd.     | TMIS      | -     |
 | United Overseas Bank Limited    | UOB     | [Link](https://www.uob.com.sg/electronicbg)     |
 | United Overseas Insurance Limited      | UOI      | -     |
