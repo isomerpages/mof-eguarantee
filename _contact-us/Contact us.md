@@ -1,6 +1,6 @@
 ---
 title: Contact us
-permalink: /joining-the-initiative/Contact-us/
+permalink: /joining-the-initiative/contact-us/
 description: ""
 ---
 ### For business and individuals

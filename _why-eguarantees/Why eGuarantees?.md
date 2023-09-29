@@ -20,4 +20,4 @@ Today, businesses and individuals (applicants) apply for or purchase banker's gu
 
 
 
-![](/images/Revised%20eGuarantee%20workflow%20(compatible).png)
+![](/images/revised%20eguarantee%20workflow%20(compatible).png)

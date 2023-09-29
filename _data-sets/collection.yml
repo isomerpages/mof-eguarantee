@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - Data sets.md
+      - Purpose of Guarantee texts.md
