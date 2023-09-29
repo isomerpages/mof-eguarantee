@@ -14,3 +14,11 @@ This field will be left blank for "one-to-one" scenario. "One-to-one" scenario p
 If you are unsure, please approach participating beneficiaries on the Purpose of Guarantee text to be used for your eGuarantee.
 
 ****
+
+**For land sales and LTA-related use cases only**
+
+
+| Beneficiary | Purpose of Guarantee texts | 
+| -------- | -------- | 
+| HDB, JTC, SLA, URA<br> (For land sales use cases)     | - Tender deposit for sale site <br> - Application deposit for reserve list site
+| LTA     | - Mobilisation advance payment<br> - Retention sum <br> - Deed of collateral warranty
