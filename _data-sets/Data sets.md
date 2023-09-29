@@ -8,7 +8,7 @@ description: ""
 
 With the standardisation of eGuarantee templates, Agencies and FIs only need to send the data sets via the Networked Trade Platform (NTP) to transmit key information required to issue and eGuarantee.
 
-All data sets are sent in CSV format, each CSV contains the data set of a single eGuarantee.
+All data sets are sent in CSV format. Each CSV contains the data set of a single eGuarantee, except for MOM Migrant Worker Bond use case (i.e. MOM_SB and MOM_SB_MW).
 
 ****
 
