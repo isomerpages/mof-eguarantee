@@ -19,15 +19,19 @@ description: ""
 | Credit Agricole Corporate and Investment Bank     | CACIB     | -     |
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/corporate/solutions/trade-and-supply-chain-finance/electronic-bankers-guarantee-programme)     |
+| ECICS Limited     | ECICS     | -     |
 | EQ Insurance Company Limited     | EQI     | -     |
 | ERGO Insurance Pte. Ltd.     | ERGO    | -     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
 | Euler Hermes Singapore Branch     | EUH     | -     |
+| FWD Singapore Pte Ltd     | FWD   | -     |
 | Great American Insurance Company     | GAIC     | -     |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
+| HL Assurance Pte. Ltd.     | HLAS     | -     |
 | HL Bank    | HL Bank     | -     |
 | Hong Leong Finance Limited    | HLF    | -     |
 | HSBC Life (Singapore) Pte. Ltd.     | HLS     | -     |
+| Income Insurance Limited     | INCOME     | -     |
 | Indian Bank     | IDIB     | -     |
 | India International Insurance Pte Ltd     | III     | -     |
 | Kookmin Bank Co., Ltd. Singapore Branch     | KBSG     | -     |
@@ -48,6 +52,7 @@ description: ""
 | Sing Investments &amp; Finance Ltd     | SIF    | -     |
 | Sompo Insurance Singapore Pte. Ltd.     | SOM    | -     |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
+| State Bank of India     | SBI     | -     |
 | Sumitomo Mitsui Banking Corporation, Singapore Branch     | SMBC     | -     |
 | Sumitomo Trust Bank, Limited Singapore Branch      | SMTB      | -     |
 | Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
