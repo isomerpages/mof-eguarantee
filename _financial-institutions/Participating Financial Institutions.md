@@ -59,7 +59,7 @@ description: ""
 | The Bank of East Asia, Limited, Singapore Branch     | BEASG     | -     |
 | Tokio Marine Insurance Singapore Ltd.     | TMIS      | -     |
 | United Overseas Bank Limited    | UOB     | [Link](https://www.uob.com.sg/electronicbg)     |
-| United Overseas Insurance Limited      | UOI      | -     |
+| United Overseas Insurance Limited      | UOI      | [Link](https://www.uoi.com.sg)     |
 
 
 
