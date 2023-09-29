@@ -17,6 +17,7 @@ description: ""
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
 | Euler Hermes Singapore Branch     | EUH     | -     |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
+| HSBC Life (Singapore) Pte. Ltd.     | HLS     | -     |
 | India International Insurance Pte Ltd     | III     | -     |
 | Kookmin Bank Co., Ltd. Singapore Branch     | KBSG     | -     |
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
@@ -28,8 +29,11 @@ description: ""
 | MUFG Bank, Ltd. Singapore Branch     | MUFG Bank     | [Link](https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/singapore.html)     |
 | National Bank of Kuwait S.A.K.P.    | NBKSG     | -     |
 | Oversea-Chinese Banking Corporation     | OCBC     | [Link](https://www.ocbc.com/business-banking/smes/trade/electronic-bankers-guarantee)    |
+| Singapore Life Ltd    | Singlife    | -     |
+| Sing Investments &amp; Finance Ltd     | SIF    | -     |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
 | Sumitomo Mitsui Banking Corporation, Singapore Branch     | SMBC     | -     |
+| Sumitomo Trust Bank, Limited Singapore Branch      | SMTB      | -     |
 | Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
 | Tokio Marine Insurance Singapore Ltd.     | TMIS      | -     |
 | United Overseas Bank Limited    | UOB     | [Link](https://www.uob.com.sg/electronicbg)     |
