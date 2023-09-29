@@ -25,10 +25,10 @@ description: ""
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
 | Euler Hermes Singapore Branch     | EUH     | -     |
 | FWD Singapore Pte Ltd     | FWD   | -     |
-| Great American Insurance Company     | GAIC     | [Link](https://www.gaic.com.sg)     |
+| Great American Insurance Company     | GAIC     | [Link](https://www.gaic.com.sg)    |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
 | HL Assurance Pte. Ltd.     | HLAS     | -     |
-| HL Bank    | HL Bank     | [Link](https://www.hlbank.com.sg)     |
+| HL Bank    | HL Bank     | -     |
 | Hong Leong Finance Limited    | HLF    | -     |
 | HSBC Life (Singapore) Pte. Ltd.     | HLS     | -     |
 | Income Insurance Limited     | INCOME     | -     |
