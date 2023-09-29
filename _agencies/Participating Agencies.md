@@ -14,6 +14,7 @@ description: ""
 | Health Promotion Board    | HPB| - |     
 | Housing Development Board    | HDB | - | 
 | Home Team Science and Technology Agency    | HTX | - |
+| Info-Communications Media Development Authority    | IMDA| - |  
 | Inland Revenue Authority of Singapore    | IRAS<br><br> For **IRAS_GST**, please use: CGST | [Link](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/guarantee) |
 | Jurong Town Corporation    | JTC | - |
 | Land Transport Authority of Singapore    | LTA | [Link](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/street-work-proposals/codes_of_practice_standards_specifications_guides_and_forms.html) |
