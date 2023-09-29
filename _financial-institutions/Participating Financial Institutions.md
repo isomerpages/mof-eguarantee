@@ -21,6 +21,7 @@ description: ""
 | HSBC Life (Singapore) Pte. Ltd.     | HLS     | -     |
 | India International Insurance Pte Ltd     | III     | -     |
 | Kookmin Bank Co., Ltd. Singapore Branch     | KBSG     | -     |
+| Landesbank Baden-Wuerttemberg, Singapore Branch    | LBBWSG     | -     
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
 | Liberty Insurance Pte Ltd     | Liberty Insurance     | -     |
 | Lonpac Insurance Bhd.     | LONPAC     | -     |
