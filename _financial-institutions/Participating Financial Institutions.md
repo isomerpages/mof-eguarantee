@@ -29,7 +29,7 @@ description: ""
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
 | HL Assurance Pte. Ltd.     | HLAS     | [Link](https://www.hlas.com.sg)    |
 | HL Bank    | HL Bank     | [Link](https://www.hlbank.com.sg)     |
-| Hong Leong Finance Limited    | HLF    | -     |
+| Hong Leong Finance Limited    | HLF    | [Link](https://www.hlf.com.sg/sme-and-corporate/services/eguarantee.html)     |
 | HSBC Life (Singapore) Pte. Ltd.     | HLS     | -     |
 | Income Insurance Limited     | INCOME     | -     |
 | Indian Bank     | IDIB     | [Link](https://www.indianbank-singapore.com)     |
