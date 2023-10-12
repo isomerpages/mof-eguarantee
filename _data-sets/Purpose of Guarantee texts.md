@@ -15,10 +15,13 @@ If you are unsure, please approach Agencies on the Purpose of Guarantee text to 
 
 ****
 
-**For land sales and LTA-related use cases only**
+**Purpose of Guarantee texts** 
+****
 
-
-| Agency | Purpose of Guarantee texts | 
+| Purpose of Guarantee texts |  | 
 | -------- | -------- | 
-| HDB, JTC, SLA, URA<br> (For land sales use cases)     | - Tender deposit for sale site <br> - Application deposit for reserve list site
-| LTA     | - Mobilisation advance payment<br> - Retention sum <br> - Deed of collateral warranty
+| - Tender deposit for sale site <br> - Application deposit for reserve list site    |[1] 
+| - Mobilisation advance payment<br> - Retention sum <br> - Deed of collateral warranty     | [2]
+
+[1] Commonly used by HDB, JTC, SLA, URA for land sales use cases<br>
+[2] Commonly used by LTA <br>
