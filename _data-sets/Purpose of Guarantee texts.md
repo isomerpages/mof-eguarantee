@@ -13,10 +13,6 @@ This field will be left blank for "one-to-one" scenario. "One-to-one" scenario p
 
 If you are unsure, please approach Agencies on the Purpose of Guarantee text to be used for your eGuarantee.
 
-****
-****
-****
-****
 
 | Purpose of Guarantee texts |  | 
 | -------- | -------- | 
