@@ -65,4 +65,4 @@ description: ""
 
 
 [\[1\]](#_ftnref1) If link is unavailable, please contact the participating FI for more information.<br>
-[\[2\]](#_ftnref2) FI will only commence eGuarantees issuance by early 2024.<br>
+[\[2\]](#_ftnref2) FI will only be able to issue eGuarantees at a later date.<br>
