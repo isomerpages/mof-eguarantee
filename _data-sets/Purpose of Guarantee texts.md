@@ -21,7 +21,7 @@ If you are unsure, please approach Agencies on the Purpose of Guarantee text to 
 | Purpose of Guarantee texts |  | 
 | -------- | -------- | 
 | - Tender deposit for sale site <br> - Application deposit for reserve list site    |[1] 
-| - Mobilisation advance payment<br> - Retention sum <br> - Security for tunnel boring machines<br> - Contractual Performance [???]   | [2]
+| - Mobilisation advance payment<br> - Retention sum <br> - Security for tunnel boring machines<br> - Contractual Performance   | [2]
 
 [1] Commonly used by HDB, JTC, SLA, URA for land sales use cases<br>
 [2] Commonly used by LTA <br>
