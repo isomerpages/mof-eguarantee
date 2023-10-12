@@ -38,7 +38,7 @@ description: ""
 | Landesbank Baden-Wuerttemberg, Singapore Branch    | LBBWSG     | -     
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
 | Liberty Insurance Pte Ltd     | Liberty Insurance     | -     |
-| Lonpac Insurance Bhd.     | LONPAC     | -     |
+| Lonpac Insurance Bhd.*     | LONPAC     | -     |
 | Maybank Singapore Limited     | MSL     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
 | Mizuho Bank, Ltd.     | Mizuho SG     | -     |
@@ -65,3 +65,4 @@ description: ""
 
 
 [\[1\]](#_ftnref1) If link is unavailable, please contact the participating FI for more information.<br>
+*FI is expected to be fully operational and capable of accepting eGuarantees by early 2024.<br>
