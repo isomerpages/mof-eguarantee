@@ -48,6 +48,7 @@ description: ""
 | National Bank of Kuwait S.A.K.P.    | NBKSG     | -     |
 | Oversea-Chinese Banking Corporation     | OCBC     | [Link](https://www.ocbc.com/business-banking/smes/trade/electronic-bankers-guarantee)    |
 | QBE Insurance (Singapore) Pte Ltd     | QBE    | [Link](https://www.qbe.com/sg)     |
+| RHB Bank Berhad     | RHB    | [Link](https://www.rhbgroup.com.sg/rhb/business/trade/guarantees/banker-s-guarantee)     |
 | Singapore Life Ltd    | Singlife    | -     |
 | Sing Investments &amp; Finance Ltd     | SIF    | -     |
 | Sompo Insurance Singapore Pte. Ltd.     | SOM    | -     |
