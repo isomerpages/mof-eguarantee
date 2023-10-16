@@ -34,6 +34,7 @@ description: ""
 | Income Insurance Limited     | INCOME     | -     |
 | Indian Bank     | IDIB     | [Link](https://www.indianbank-singapore.com)     |
 | India International Insurance Pte Ltd     | III     | -     |
+| KEB Hana Bank    | KEB    | [Link](https://global.1qbank.com/pb/ma/main?countryCode=SG)     |
 | Kookmin Bank Co., Ltd. Singapore Branch     | KBSG     | -     |
 | Landesbank Baden-Wuerttemberg, Singapore Branch    | LBBWSG     | -     
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
