@@ -13,11 +13,6 @@ This field will be left blank for "one-to-one" scenario. "One-to-one" scenario p
 
 If you are unsure, please approach Agencies on the Purpose of Guarantee text to be used for your eGuarantee.
 
-| Purpose of Guarantee texts |  | 
-| -------- | -------- | 
-| - Tender deposit for sale site <br> - Application deposit for reserve list site    |  [\[1\]](#_ftn1)
-| - Mobilisation advance payment<br> - Retention sum <br> - Security for tunnel boring machines<br> - Contractual performance   |  [\[2\]](#_ftn2)
-
 
 
 | Purpose of Guarantee texts |  | 
