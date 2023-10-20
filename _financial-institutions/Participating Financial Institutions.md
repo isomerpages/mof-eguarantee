@@ -56,7 +56,7 @@ description: ""
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
 | State Bank of India     | SBI     | [Link](https://sg.statebank/trade-finance)    |
 | Sumitomo Mitsui Banking Corporation, Singapore Branch     | SMBC     | -     |
-| Sumitomo Trust Bank, Limited Singapore Branch      | SMTB      | -     |
+| Sumitomo Mitsui Trust Bank, Limited Singapore Branch      | SMTB      | -     |
 | Taipei Fubon Commercial Bank Co., Ltd., Singapore Branch    | TPBKSG     | [Link](https://www.fubon.com/banking/Corporate/overseas_Business/index.htm)     |
 | The Bank of East Asia, Limited, Singapore Branch     | BEASG     | -     |
 | The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch     | HSBC     | [Link](https://www.hsbcnet.com/ )     |
