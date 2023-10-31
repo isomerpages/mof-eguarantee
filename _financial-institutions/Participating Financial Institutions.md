@@ -44,7 +44,7 @@ description: ""
 | Maybank Singapore Limited     | MSL     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
 | Mizuho Bank, Ltd.     | Mizuho SG     | -     |
-| MS First Capital Insurance Limited     | FCL     | -     |
+| MS First Capital Insurance Limited     | FCI     | -     |
 | MSIG Insurance (Singapore) Pte Ltd     | MSIG     | -     |
 | MUFG Bank, Ltd. Singapore Branch     | MUFG Bank     | [Link](https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/singapore.html)     |
 | National Bank of Kuwait S.A.K.P.    | NBKSG     | -     |
