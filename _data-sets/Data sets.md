@@ -20,6 +20,7 @@ All data sets are sent in CSV format. Each CSV contains the data set of a single
 | Issuance and Amendment data set     | To issue a new eGuarantee or amend details of an existing eGuarantee.     |  [Link to data set](https://go.gov.sg/issuanceamendmentdataset)   |
 | Issuance and Amendment data set for GOV_UT     | To issue a new eGuarantee or amend details of an existing eGuarantee. <br><br> This dataset shall be used when the applicant has requested for an eGuarantee to be issued or amended under GOV_UT.  <br><br> Please see [link](/data-sets/purposeofguarantee/) for the list of "Purpose of Guarantee" text used by Agencies.    |  [Link to data set](https://go.gov.sg/issuanceamendmentdataset-govut)   |
 | Non-extension data set     | To communicate the financial institution's intent not to extend the guarantee further. <br><br>Applicable for Guarantee Templates GOV_POC_NFD or LTA_SWA as they have automatic extension clauses.    |  [Link to data set](https://go.gov.sg/nonextensiondataset)  |
+| Final expiry data set     | To communicate the final expiry date of an existing eGuarantee.   |  [Link to data set](https://go.gov.sg/finalexpirydataset)  |
 
 
 ****
