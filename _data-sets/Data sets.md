@@ -22,6 +22,7 @@ All data sets are sent in CSV format. Each CSV contains the data set of a single
 | Non-extension data set     | To communicate the financial institution's intent not to extend the guarantee further. <br><br>Applicable for Guarantee Templates GOV_POC_NFD or LTA_SWA as they have automatic extension clauses.    |  [Link to data set](https://go.gov.sg/nonextensiondataset)  |
 
 
+
 ****
 
 **Data sets to be prepared and uploaded by Agencies**
@@ -32,4 +33,4 @@ All data sets are sent in CSV format. Each CSV contains the data set of a single
 | Rejection data set     | To reject the issuance of a new eGuarantee or amendended eGuarantee issued by financial institution.  | [Link to data set](https://go.gov.sg/rejectiondataset)    |
 | Claims data set     | To make claim on an eGuarantee in force. | [Link to data set](https://go.gov.sg/claimsdataset)    |
 | Early Discharge  data set     | To discharge an eGuarantee prior to its claim expiry date. | [Link to data set](https://go.gov.sg/earlydischargedataset)     |
-| Final extension  data set     | To extend the validity of the eGuarantee for a further final period upon receipt of a Non-extension data set from Financial Institutions.  | [Link to data set](https://go.gov.sg/finalextensiondataset)     |
+| Final extension data set  | To extend the validity of the eGuarantee for a further final period upon receipt of a Non-extension data set from Financial Institutions.  | [Link to data set](https://go.gov.sg/finalextensiondataset)     |
