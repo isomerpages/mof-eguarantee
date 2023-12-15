@@ -10,11 +10,14 @@ sections:
       background: /images/banner2 (resized).png
   - infobar:
       title: eGuarantee@Gov
-      description: <iframe width="560" height="315"
+      description: >-
+        <iframe width="560" height="315"
         src="https://www.youtube.com/embed/W5NVhDmFIHo" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+        allowfullscreen=""></iframe>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=S89yID2BjM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
@@ -24,7 +27,7 @@ sections:
       title: Seamless
       description: Apply for eGuarantees in 3 easy steps
       button: Learn more here
-      url: "/purchase-eguarantee/3steps "
+      url: /purchase-eguarantee/3steps
   - infobar:
       title: Savings
       description: Save on courier charges and costs for physical storage of paper
