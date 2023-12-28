@@ -11,9 +11,6 @@ sections:
   - infobar:
       title: eGuarantee@Gov
       description: >-
-        
-
-
         &nbsp; <title>HTML Elements Reference</title>
 
 
