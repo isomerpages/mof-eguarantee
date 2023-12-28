@@ -22,8 +22,7 @@ sections:
 
 
 
-        Testimonials of eGuarantees from Applicants, Agencies and Financial Institutions
-
+        Testimonials of eGuarantees from Applicants, Agency and ABS
 
 
 
