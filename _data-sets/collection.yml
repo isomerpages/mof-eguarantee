@@ -2,5 +2,6 @@ collections:
   data-sets:
     output: true
     order:
+      - Notices Texts.md
       - Data sets.md
       - Purpose of Guarantee texts.md
