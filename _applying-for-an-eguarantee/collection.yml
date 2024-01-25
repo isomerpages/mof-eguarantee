@@ -1,0 +1,5 @@
+collections:
+  applying-for-an-eguarantee:
+    output: true
+    order:
+      - Apply for an eGuarantee.md

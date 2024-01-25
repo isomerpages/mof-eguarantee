@@ -1,0 +1,7 @@
+collections:
+  data-sets:
+    output: true
+    order:
+      - Data sets.md
+      - Purpose of Guarantee texts.md
+      - Notice Texts.md

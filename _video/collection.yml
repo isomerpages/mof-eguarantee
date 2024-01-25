@@ -1,0 +1,5 @@
+collections:
+  video:
+    output: true
+    order:
+      - eGuarantee@Gov Video.md
