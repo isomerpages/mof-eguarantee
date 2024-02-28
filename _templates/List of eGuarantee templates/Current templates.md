@@ -41,7 +41,11 @@ you are dealing with.</p>
 <p>All participating Agencies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For use cases that require an on-demand guarantee</p>
+<p>For use cases that require an on-demand guarantee
+<br>
+</p>
+<p>All onboarded agencies will commence adoption of UT for all new tenders/applications
+issued on or after 6 March 2024</p>
 </td>
 </tr>
 <tr>
