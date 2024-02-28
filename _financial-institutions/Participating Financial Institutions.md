@@ -14,7 +14,7 @@ variant: markdown
 | Bank of China Limited | BOC |  [Link](https://www.bankofchina.com/sg/cbservice/cb3/)    |
 | Berkshire Hathaway Specialty Insurance Company     | BHSI   | -     |
 | BNP Paribas     | BNP     | [Link](https://apac.bnpparibas/en/our-solutions/global-banking/)     |
-| Cathay United Bank     | CUB     | -     |
+| Cathay United Bank     | CUB     | [Link](https://autobahn.db.com)    |
 | China Citic Bank International Limited Singapore Branch     | CNCBISG     | -     |
 | China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](https://www.sg.cntaiping.com)     |
 | Chubb Insurance Singapore Limited     | Chubb     | -     |
