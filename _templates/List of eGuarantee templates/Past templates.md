@@ -37,7 +37,7 @@ existing eGuarantee templates.</p>
 <p>GOV_POC_FD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/gov_poc_fd.pdf" rel="noopener noreferrer nofollow" target="_blank">GOV_POfileC_FD.pdf</a>
+<p><a href="/files/gov_poc_fd.pdf" rel="noopener noreferrer nofollow" target="_blank">GOV_POC_FD.pdf</a>
 </p>
 <p></p>
 </td>
