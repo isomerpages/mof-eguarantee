@@ -6,11 +6,9 @@ third_nav_title: List of eGuarantee templates
 variant: tiptap
 ---
 <h1>Past templates</h1>
-<p>Please refer to the <strong>past</strong> eGuarantee@Gov templates here.
-Click <a href="/templates/list-of-eguarantee-templates/existing/" rel="noopener noreferrer nofollow" target="_blank">here</a> for <strong>current </strong>templates.</p>
-<p>All onboarded agencies will commence adoption of Universal Template (template
-reference: GOV_UT) for all new tenders/applications issued on or after
-6 March 2024.</p>
+<p>All onboarded agencies will commence adoption of Universal Template for
+all new tenders/applications issued on or after 6 March 2024. Click <a href="/templates/list-of-eguarantee-templates/existing/" rel="noopener noreferrer nofollow" target="_blank">here</a> for <strong>current </strong>templates.</p>
+<p>Please refer to the <strong>past</strong> eGuarantee@Gov templates below.</p>
 <table>
 <tbody>
 <tr>
