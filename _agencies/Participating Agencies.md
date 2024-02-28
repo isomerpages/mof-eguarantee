@@ -29,7 +29,7 @@ variant: markdown
 | Judiciary - State Courts   | SC | - |
 | Judiciary - Supreme Court   | SupCt | - |
 | Jurong Town Corporation    | JTC | - |
-| Land Transport Authority of Singapore    | LTA | [Link](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/street-work-proposals/codes_of_practice_standards_specifications_guides_and_forms.html) |
+| Land Transport Authority of Singapore    | LTA | - |
 | Maritime and Port Authority of Singapore    | MPA | - |
 | Monetary Authority of Singapore    | MAS | - |
 | Ministry of Communications and Information    | MCI| - |
@@ -55,7 +55,7 @@ variant: markdown
 | Parliament of Singapore    | Parl | - |
 | People's Association    | PA | - |
 | Public Service Division    | PSD| - |     
-| Public Utilities Board    | PUB| [Link](https://www.pub.gov.sg/Pages/eGuaranteeGov.aspx) |
+| Public Utilities Board    | PUB| - |
 | Republic Polytechnic    | RP| - |     
 | Science Centre Board    | SCB| - |     
 | Sentosa Development Corporation    | SDC| - |     
