@@ -55,7 +55,7 @@ variant: markdown
 | Parliament of Singapore    | Parl | - |
 | People's Association    | PA | - |
 | Public Service Division    | PSD| - |     
-| Public Utilities Board    | PUB| - |
+| Public Utilities Board    | PUB| [Link](https://www.pub.gov.sg/Industry/Tenders-and-Contracts/eGuaranteeGov) |
 | Republic Polytechnic    | RP| - |     
 | Science Centre Board    | SCB| - |     
 | Sentosa Development Corporation    | SDC| - |     
