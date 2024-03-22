@@ -57,7 +57,7 @@ variant: markdown
 | QBE Insurance (Singapore) Pte Ltd     | QBE    | [Link](https://www.qbe.com/sg)     |
 | RHB Bank Berhad     | RHB    | [Link](https://www.rhbgroup.com.sg/rhb/business/trade/guarantees/banker-s-guarantee)     |
 | Singapore Life Ltd    | Singlife    | -     |
-| Sing Investments &amp; Finance Ltd     | SIF    | [Link](https://www.sif.com.sg/eguaranteegov/)     |
+| Sing Investments &amp; Finance Ltd     | SingFinance    | [Link](https://www.singfinance.com.sg/eguaranteegov)     |
 | Sompo Insurance Singapore Pte. Ltd.     | SOM    | -     |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
 | State Bank of India     | SBI     | [Link](https://sg.statebank/trade-finance)    |
