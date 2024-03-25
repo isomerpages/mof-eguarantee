@@ -69,6 +69,7 @@ variant: markdown
 | The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch     | HSBC     | [Link](https://www.hsbcnet.com/ )     |
 | The Toronto-Dominion Bank     | TD SG Branch    | -     |
 | Tokio Marine Insurance Singapore Ltd.     | TMIS      | -     |
+| Toronto Dominion (South East Asia) Limited     | TDSEA    | -     |
 | United Overseas Bank Limited    | UOB     | [Link](https://www.uob.com.sg/electronicbg)     |
 | United Overseas Insurance Limited      | UOI      | [Link](https://www.uoi.com.sg)     |
 
