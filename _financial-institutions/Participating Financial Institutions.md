@@ -44,7 +44,7 @@ variant: markdown
 | Landesbank Baden-Wuerttemberg, Singapore Branch    | LBBWSG     | -     
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
 | Liberty Insurance Pte Ltd     | LIPL     | -     |
-| Lonpac Insurance Bhd.  [\[2\]](#_ftn2)   | LONPAC     | -     |
+| Lonpac Insurance Bhd.    | LONPAC     | -     |
 | Maybank Singapore Limited     | MSL     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
 | Mega International Commercial Bank Co., Ltd.     | Megaicbc     | -     |
@@ -76,4 +76,3 @@ variant: markdown
 
 
 [\[1\]](#_ftnref1) If link is unavailable, please contact the participating FI for more information.<br>
-[\[2\]](#_ftnref2) FI will only be able to issue eGuarantees at a later date.<br>
