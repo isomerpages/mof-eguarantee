@@ -10,7 +10,7 @@ sections:
       background: /images/banner2 (resized).png
       variant: image
       key_highlights:
-        - title: sWIFT, SEAMLESS, WITH SAVINGS FOR ALL
+        - title: sWIFT, SEAMLESS, AND WITH SAVINGS FOR ALL
           description: ""
           url: ""
   - infopic:
