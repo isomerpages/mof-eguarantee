@@ -11,16 +11,17 @@ sections:
       variant: image
   - infobar:
       title: eGuarantee@Gov
-      description: Introduction to eGuarantee@Gov <div>     <iframe width="560"
-        height="315" src="https://www.youtube.com/embed/W5NVhDmFIHo"
+      description: <h2>Introduction to eGuarantee@Gov</h2> <div>     <iframe
+        width="560" height="315" src="https://www.youtube.com/embed/W5NVhDmFIHo"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture" allowfullscreen=""></iframe> </div>  Testimonials of
-        eGuarantees from Applicants, Agency and ABS <div>   <iframe width="560"
-        height="315" src="https://www.youtube.com/embed/S89yID2BjM4"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture" allowfullscreen=""></iframe> </div>
+        picture-in-picture" allowfullscreen=""></iframe>
+        </div>     <h2>Testimonials of eGuarantees from Applicants, Agency and
+        ABS</h2> <div>   <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/S89yID2BjM4" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen=""></iframe> </div>
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
