@@ -22,6 +22,14 @@ sections:
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe> </div>
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/2M_speech.png
+      alt: Image alt text
   - infobar:
       title: Swift
       description: Guarantees can be issued in less than 1 day
@@ -39,12 +47,4 @@ sections:
   - resources:
       title: Media Releases
       button: Find out more
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      image: /images/2M_speech.png
-      alt: Image alt text
 ---
