@@ -7,7 +7,7 @@ variant: markdown
 # Step 1: Obtain
 **Obtain the following details from the Agency you are dealing with when applying for an eGuarantee.**
 
-This list of details required can be found [here](https://go.gov.sg/eguaranteeapplication).
+The list of details required can be found [here](https://go.gov.sg/eguaranteeapplication).
 
 Please contact the Agency you are dealing with if you have any queries on your application details.
 # Step 2: Select
