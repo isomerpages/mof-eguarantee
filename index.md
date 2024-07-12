@@ -9,14 +9,16 @@ sections:
   - hero:
       background: /images/banner2 (resized).png
       variant: image
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Key Benefits of eGuarantee@Gov
+      button: FY2023 MOF COS Debate Speech
       image: /images/2M_speech.png
-      alt: Image alt text
+      url: https://safe.menlosecurity.com/https://www.mof.gov.sg/news-publications/speeches/fy2023-mof-committee-of-supply-debate-speech-by-senior-minister-of-state-mr-chee-hong-tat
   - infobar:
       title: eGuarantee@Gov
       description: Introduction to eGuarantee@Gov <br> <div>     <iframe width="560"
