@@ -11,7 +11,7 @@ sections:
       variant: image
   - infobar:
       title: eGuarantee@Gov
-      description: <h2>Introduction to eGuarantee@Gov</h2> <div>     <iframe
+      description: <h2>Introduction to eGuarantee@Gov</h2>  <br> <div>     <iframe
         width="560" height="315" src="https://www.youtube.com/embed/W5NVhDmFIHo"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
