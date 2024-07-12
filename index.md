@@ -39,4 +39,12 @@ sections:
   - resources:
       title: Media Releases
       button: Find out more
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/2M_speech.png
+      alt: Image alt text
 ---
