@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/banner2 (resized).png
       variant: image
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/2M_speech.png
+      alt: Image alt text
   - infobar:
       title: eGuarantee@Gov
       description: Introduction to eGuarantee@Gov <br> <div>     <iframe width="560"
