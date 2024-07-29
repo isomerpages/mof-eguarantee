@@ -14,7 +14,7 @@ variant: markdown
 | Bank of China Limited | BOC |  [Link](https://www.bankofchina.com/sg/cbservice/cb3/)    |
 | Berkshire Hathaway Specialty Insurance Company     | BHSI   | -     |
 | BNP Paribas     | BNP     | [Link](https://apac.bnpparibas/en/our-solutions/global-banking/)     |
-| Cathay United Bank     | CUB     | [Link](https://autobahn.db.com)    |
+| Cathay United Bank     | CUB     |    |
 | China Citic Bank International Limited Singapore Branch     | CNCBISG     | -     |
 | China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](https://www.sg.cntaiping.com)     |
 | Chubb Insurance Singapore Limited     | Chubb     | -     |
@@ -23,7 +23,7 @@ variant: markdown
 | Credit Agricole Corporate and Investment Bank     | CACIB     | -     |
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/corporate/solutions/trade-and-supply-chain-finance/electronic-bankers-guarantee-programme)     |
-| Deutsche Bank Aktiengesellschaft     | DBSG   | -   |
+| Deutsche Bank Aktiengesellschaft     | DBSG   | [Link](https://autobahn.db.com)    |
 | ECICS Limited     | ECICS     | [Link](https://www.ecics.com.sg)     |
 | EQ Insurance Company Limited     | EQI     | [Link](https://www.eqinsurance.com.sg)     |
 | ERGO Insurance Pte. Ltd.     | ERGO    | -     |
