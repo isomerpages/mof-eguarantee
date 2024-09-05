@@ -24,7 +24,7 @@ variant: markdown
 | CIMB Bank Berhad     | CIMB     | [Link](https://www.cimb.com.sg/en/business/help-support/forms-download-center.html)     |
 | Citibank NA, Singapore Branch     | CITI     | -     |
 | Commerzbank AG    | COBASGSX     |  -  |
-| Cooperatieve Rabobank U.A. Singapore Branch     | CRUA   | -     |
+| Cooperatieve Rabobank U.A. Singapore Branch     | CRUA   | [Link](https://www.rabobank.com)    |
 | Credit Agricole Corporate and Investment Bank     | CACIB     | -     |
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/corporate/solutions/trade-and-supply-chain-finance/electronic-bankers-guarantee-programme)     |
@@ -56,7 +56,7 @@ variant: markdown
 | Landesbank Baden-Wuerttemberg, Singapore Branch    | LBBWSG     | -     
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
 | Liberty Insurance Pte Ltd     | LIPL     | -     |
-| Liberty Specialty Markets Singapore Pte Ltd     | LSMS     | [Link](https://www.libertyspecialitymarkets.com.sg)     |
+| Liberty Specialty Markets Singapore Pte Ltd     | LSMS     | [Link](https://www.libertyspecialtymarkets.com.sg/)     |
 | Lonpac Insurance Bhd.    | LONPAC     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
 | Maybank Singapore Limited     | MSL     | -     |
