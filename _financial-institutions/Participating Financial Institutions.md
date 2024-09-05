@@ -35,7 +35,7 @@ variant: markdown
 | ERGO Insurance Pte. Ltd.     | ERGO    | -     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
 | Euler Hermes Singapore Branch     | EUH     | -     |
-| First Commercial Bank Ltd    | FCB     |  -  |
+| First Commercial Bank Ltd    | FCB     |  [Link](https://www.firstbank.com.tw/sites/fcb/touch/en_US/1565683510432#atab3_content)  |
 | FWD Singapore Pte Ltd     | FWD   | [Link](https://www.fwd.com.sg)     |
 | Great American Insurance Company     | GAIC     | [Link](https://www.gaic.com.sg)    |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
