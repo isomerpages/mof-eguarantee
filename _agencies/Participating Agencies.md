@@ -69,7 +69,7 @@ variant: markdown
 | Science Centre Board    | SCB| - |     
 | Sentosa Development Corporation    | SDC| - |     
 | Singapore Customs    | Customs| [Link](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |
-| Singapore Dental Council    | SDC| - |  
+| Singapore Dental Council    | PBSSDC| - |  
 | Singapore Examinations and Assessment Board | SEAB| - |   
 | Singapore Food Agency    | SFA| - |     
 | Singapore Land Authority    | SLA| - |    
