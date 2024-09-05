@@ -66,7 +66,7 @@ variant: markdown
 | MSIG Insurance (Singapore) Pte Ltd     | MSIG     | -     |
 | MUFG Bank, Ltd. Singapore Branch     | MUFG Bank     | [Link](https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/singapore.html)     |
 | National Bank of Kuwait S.A.K.P.    | NBKSG     | -     |
-| Natixis, Singapore branch     | NTX     | -     |
+| Natixis, Singapore branch     | NTX     | [Link](https://apac.cib.natixis.com/singapore)       |
 | Oversea-Chinese Banking Corporation     | OCBC     | [Link](https://www.ocbc.com/business-banking/smes/trade/electronic-bankers-guarantee)    |
 | QBE Insurance (Singapore) Pte Ltd     | QBE    | [Link](https://www.qbe.com/sg)     |
 | RHB Bank Berhad     | RHB    | [Link](https://www.rhbgroup.com.sg/rhb/business/trade/guarantees/banker-s-guarantee)     |
