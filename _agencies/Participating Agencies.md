@@ -8,15 +8,15 @@ variant: markdown
 | -------- | -------- |-------- | 
 | Accounting and Corporate Regulatory Authority    | ACRA| - |
 | Accountant-General's Department    | AGD| - |     
-| Agency for Science, Technology and Research    | A*STAR| - |     
 | Attorney-General's Chambers   | AGC| - |     
 | Auditor-General’s Office    | AGO| - |     
+| Agency for Science, Technology and Research    | A*STAR| - |     
 | Building and Construction Authority   | BCA| - |     
 | Central Provident Fund Board    | CPFB| - |
-| Corrupt Practices Investigation Bureau    | CPIB| - |   
-| Council for Estate Agencies    | CEA| - |
 | Civil Aviation Authority of Singapore    | CAAS| - |
 | Civil Service College    | CSC| - |
+| Corrupt Practices Investigation Bureau    | CPIB| - |   
+| Council for Estate Agencies    | CEA| - |
 | Cyber Security Agency of Singapore    | CSA| - |     
 | Defence Science and Technology Agency    | DSTA| - |
 | Economic Development Board   | EDB| - |     
@@ -39,9 +39,9 @@ variant: markdown
 | Land Transport Authority of Singapore    | LTA | - |
 | Maritime and Port Authority of Singapore    | MPA | - |
 | Monetary Authority of Singapore    | MAS | - |
-| Ministry of Communications and Information    | MCI| - |
 | Ministry of Culture, Community &amp; Youth    | MCCY| - |
 | Ministry of Defence   | MINDEF| - |
+| Ministry of Digital Development and Information    | MDDI| - |
 | Ministry of Education | MOE | - |   
 | Ministry of Finance | MOF | - |
 | Ministry of Health | MOH | - |
