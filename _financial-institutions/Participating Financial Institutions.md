@@ -9,9 +9,12 @@ variant: markdown
 | AIA Singapore Private Limited     | AIA    | -     |
 | AIG Asia Pacific Insurance Pte Ltd     | AIG     | [Link](https://www.aig.sg/personal/domestic-helper-insurance#start)     |
 | Allied World Assurance Company, Ltd (Singapore Branch)     | Allied World Singapore    | -     |
+| Australia &amp; New Zealand Banking Group Ltd    | ANZ     | [Link](https://www.anz.com/institutional/global/singapore/en/)      |
+| Banco Bilbao Vizcaya Argentaria    | BBVA    | -    |
 | Banco Santander, S.A.     | BSCH SG     |  [Link](https://www.santander.com/en/home)    |
 | Bangkok Bank Public Company Limited     | BBL   | -     |
 | Bank of China Limited | BOC |  [Link](https://www.bankofchina.com/sg/cbservice/cb3/)    |
+| Bank of India    | BOI SG     | [Link](https://www.boi.com.sg)    |
 | Berkshire Hathaway Specialty Insurance Company     | BHSI   | -     |
 | BNP Paribas     | BNP     | [Link](https://apac.bnpparibas/en/our-solutions/global-banking/)     |
 | Cathay United Bank     | CUB     |  -  |
@@ -20,15 +23,19 @@ variant: markdown
 | Chubb Insurance Singapore Limited     | Chubb     | -     |
 | CIMB Bank Berhad     | CIMB     | [Link](https://www.cimb.com.sg/en/business/help-support/forms-download-center.html)     |
 | Citibank NA, Singapore Branch     | CITI     | -     |
+| Commerzbank AG    | COBASGSX     |  -  |
+| Cooperatieve Rabobank U.A. Singapore Branch     | CRUA   | [Link](https://www.rabobank.com)    |
 | Credit Agricole Corporate and Investment Bank     | CACIB     | -     |
 | Credit Industriel et Commercial     | CIC SG     | -     |
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/corporate/solutions/trade-and-supply-chain-finance/electronic-bankers-guarantee-programme)     |
 | Deutsche Bank Aktiengesellschaft     | DBSG   | [Link](https://autobahn.db.com)    |
+| DZ Bank AG Deutsche Zentral-Genossenschaftsbank     | DZB   | -     |
 | ECICS Limited     | ECICS     | [Link](https://www.ecics.com.sg)     |
 | EQ Insurance Company Limited     | EQI     | [Link](https://www.eqinsurance.com.sg)     |
 | ERGO Insurance Pte. Ltd.     | ERGO    | -     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
 | Euler Hermes Singapore Branch     | EUH     | -     |
+| First Commercial Bank Ltd    | FCB     |  [Link](https://www.firstbank.com.tw/sites/fcb/touch/en_US/1565683510432#atab3_content)  |
 | FWD Singapore Pte Ltd     | FWD   | [Link](https://www.fwd.com.sg)     |
 | Great American Insurance Company     | GAIC     | [Link](https://www.gaic.com.sg)    |
 | Great Eastern General Insurance Limited     | GEG     | [Link](https://www.greateasterngeneral.com)     |
@@ -39,25 +46,33 @@ variant: markdown
 | Income Insurance Limited     | INCOME     | -     |
 | Indian Bank     | IDIB     | [Link](https://www.indianbank-singapore.com)     |
 | India International Insurance Pte Ltd     | III     | -     |
+| Indian Overseas Bank     | IOBSG    | -     |
+| ING Bank N.V., Singapore Branch   | ING   | -     |
+| Intesa Sanpaolo S.P.A     | ISP   | -     |
+| KBC Bank N.V.     | KBC Bank   | -     |
 | KEB Hana Bank    | KEB    | [Link](https://global.1qbank.com/pb/ma/main?countryCode=SG)     |
 | Kookmin Bank Co., Ltd. Singapore Branch     | KBSG     | -     |
+| Krung Thai Bank Public Company Limited     | KTBSG   | -     |
 | Landesbank Baden-Wuerttemberg, Singapore Branch    | LBBWSG     | -     
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
 | Liberty Insurance Pte Ltd     | LIPL     | -     |
+| Liberty Specialty Markets Singapore Pte Ltd     | LSMS     | [Link](https://www.libertyspecialtymarkets.com.sg/)     |
 | Lonpac Insurance Bhd.    | LONPAC     | -     |
-| Maybank Singapore Limited     | MSL     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
+| Maybank Singapore Limited     | MSL     | -     |
 | Mega International Commercial Bank Co., Ltd.     | Megaicbc     | -     |
 | Mizuho Bank, Ltd.     | Mizuho SG     | -     |
 | MS First Capital Insurance Limited     | FCI     | -     |
 | MSIG Insurance (Singapore) Pte Ltd     | MSIG     | -     |
 | MUFG Bank, Ltd. Singapore Branch     | MUFG Bank     | [Link](https://www.bk.mufg.jp/global/globalnetwork/asiaoceania/singapore.html)     |
 | National Bank of Kuwait S.A.K.P.    | NBKSG     | -     |
+| Natixis, Singapore branch     | NTX     | [Link](https://apac.cib.natixis.com/singapore)       |
 | Oversea-Chinese Banking Corporation     | OCBC     | [Link](https://www.ocbc.com/business-banking/smes/trade/electronic-bankers-guarantee)    |
 | QBE Insurance (Singapore) Pte Ltd     | QBE    | [Link](https://www.qbe.com/sg)     |
 | RHB Bank Berhad     | RHB    | [Link](https://www.rhbgroup.com.sg/rhb/business/trade/guarantees/banker-s-guarantee)     |
 | Singapore Life Ltd    | Singlife    | -     |
 | Sing Investments &amp; Finance Ltd     | SingFinance    | [Link](https://www.singfinance.com.sg/eguaranteegov)     |
+| Skandinaviska Enskilda Banken AB (publ)   | SEB   | -     |
 | Sompo Insurance Singapore Pte. Ltd.     | SOM    | -     |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
 | State Bank of India     | SBI     | [Link](https://sg.statebank/trade-finance)    |
@@ -69,7 +84,7 @@ variant: markdown
 | The Hongkong and Shanghai Banking Corporation Limited, Singapore Branch     | HSBC     | [Link](https://www.hsbcnet.com/ )     |
 | The Toronto-Dominion Bank     | TD SG Branch    | -     |
 | Tokio Marine Insurance Singapore Ltd.     | TMIS      | -     |
-| Toronto Dominion (South East Asia) Limited     | TDSEA    | -     |
+| Toronto Dominion (South East Asia) Limited     | TD SEA    | -     |
 | United Overseas Bank Limited    | UOB     | [Link](https://www.uob.com.sg/electronicbg)     |
 | United Overseas Insurance Limited      | UOI      | [Link](https://www.uoi.com.sg)     |
 

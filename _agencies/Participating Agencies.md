@@ -10,14 +10,19 @@ variant: markdown
 | Accountant-General's Department    | AGD| - |     
 | Attorney-General's Chambers   | AGC| - |     
 | Auditor-General’s Office    | AGO| - |     
+| Agency for Science, Technology and Research    | A*STAR| - |     
 | Building and Construction Authority   | BCA| - |     
 | Central Provident Fund Board    | CPFB| - |
-| Corrupt Practices Investigation Bureau    | CPIB| - |   
-| Council for Estate Agencies    | CEA| - |
 | Civil Aviation Authority of Singapore    | CAAS| - |
 | Civil Service College    | CSC| - |
+| Corrupt Practices Investigation Bureau    | CPIB| - |   
+| Council for Estate Agencies    | CEA| - |
 | Cyber Security Agency of Singapore    | CSA| - |     
 | Defence Science and Technology Agency    | DSTA| - |
+| Economic Development Board   | EDB| - |     
+| Energy Market Authority    | EMA| - |
+| Enterprise Singapore    | ESG| - |
+| Gambling Regulatory Authority | GRA| - |    
 | Government Technology Agency    | GOVTECH| - | 
 | Health Promotion Board    | HPB| - |  
 | Health Sciences Authority    | HSA| - |     
@@ -26,15 +31,17 @@ variant: markdown
 | Info-Communications Media Development Authority    | IMDA| - |  
 | Inland Revenue Authority of Singapore    | IRAS<br><br> For **GST Registration**, please use: CGST| [Link](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/guarantee) |
 | Institute of Technical Education    | ITE | - 
+| Intellectual Property Office of Singapore | IPOS| - |    
+| Istana    | ISTANA| - |     
 | Judiciary - State Courts   | SC | - |
 | Judiciary - Supreme Court   | SupCt | - |
 | Jurong Town Corporation    | JTC | - |
 | Land Transport Authority of Singapore    | LTA | - |
 | Maritime and Port Authority of Singapore    | MPA | - |
 | Monetary Authority of Singapore    | MAS | - |
-| Ministry of Communications and Information    | MCI| - |
 | Ministry of Culture, Community &amp; Youth    | MCCY| - |
 | Ministry of Defence   | MINDEF| - |
+| Ministry of Digital Development and Information    | MDDI| - |
 | Ministry of Education | MOE | - |   
 | Ministry of Finance | MOF | - |
 | Ministry of Health | MOH | - |
@@ -47,30 +54,39 @@ variant: markdown
 | Ministry of Trade &amp; Industry    | MTI| - | 
 | Nanyang Polytechnic    | NYP| - | 
 | National Council of Social Service    | NCCS| - | 
-| National Library Board    | NLB| - | 
-| National Parks Board    | NParks| For dog licensing: [Link](https://www.nparks.gov.sg/avs/pets/owning-a-pet/licensing-a-pet/banker%E2%80%99s-guarantee )|
 | National Environment Agency    | NEA| [Link](https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/multilateral-environmental-agreements/basel-convention/application-for-basel-permit)|
+| National Heritage Board   | NHB| - |     
+| National Library Board    | NLB| - | 
+| National Parks Board    | NParks| For dog licensing: [Link](https://www.nparks.gov.sg/avs/pets/owning-a-pet/licensing-a-pet/banker%E2%80%99s-guarantee )|   
 | National Youth Council    | NYC| - |     
 | Ngee Ann Polytechnic    | NP| - |     
 | Parliament of Singapore    | Parl | - |
 | People's Association    | PA | - |
+| Prime Minister's Office    | PMO| - |
 | Public Service Division    | PSD| - |     
 | Public Utilities Board    | PUB| [Link](https://www.pub.gov.sg/Industry/Tenders-and-Contracts/eGuaranteeGov) |
 | Republic Polytechnic    | RP| - |     
 | Science Centre Board    | SCB| - |     
 | Sentosa Development Corporation    | SDC| - |     
 | Singapore Customs    | Customs| [Link](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/security-lodgement/how-to-lodge-security) |
+| Singapore Dental Council    | SDC| - |  
 | Singapore Examinations and Assessment Board | SEAB| - |   
 | Singapore Food Agency    | SFA| - |     
 | Singapore Land Authority    | SLA| - |    
-| Singapore Polytechnic    | SP| - |    
-| Singapore Tourism Board    | STB| - |    
+| Singapore Medical Council  | SMC| - |  
+| Singapore Nursing Board    | SNB| - |  
+| Singapore Pharmacy Council    | SPC| - |  
+| Singapore Polytechnic    | SP| - | 
 | SkillsFuture Singapore    | SSG| - |    
+| Singapore Sports Council    | SSC| - |    
+| Singapore Tourism Board    | STB| - |    
 | Temasek Polytechnic    | TP| - |    
 | Tote Board | TB| - |    
+| Traditional Chinese Medicine Practitioners Board  | TCMPB| - |    
 | Strategy Group, Prime Minister's Office    | PMO-SG| - |     
 | Urban Redevelopment Authority    | URA| [Link](https://www.ura.gov.sg/Corporate/Land-Sales) |
 | Vital    | VITAL| - |     
+| Workforce Singapore Agency   | WSG| - |     
 | Yellow Ribbon Singapore    | YRSG| - |     
 
 <br>
