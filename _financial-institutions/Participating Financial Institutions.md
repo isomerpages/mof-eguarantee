@@ -14,7 +14,7 @@ variant: markdown
 | Banco Santander, S.A.     | BSCH SG     |  [Link](https://www.santander.com/en/home)    |
 | Bangkok Bank Public Company Limited     | BBL   | -     |
 | Bank of China Limited | BOC |  [Link](https://www.bankofchina.com/sg/cbservice/cb3/)    |
-| Bank of India    | BOI SG     | -     |
+| Bank of India    | BOI SG     | [Link](https://www.boi.com.sg)    |
 | Berkshire Hathaway Specialty Insurance Company     | BHSI   | -     |
 | BNP Paribas     | BNP     | [Link](https://apac.bnpparibas/en/our-solutions/global-banking/)     |
 | Cathay United Bank     | CUB     |  -  |
