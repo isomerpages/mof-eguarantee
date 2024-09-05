@@ -56,7 +56,7 @@ variant: markdown
 | Landesbank Baden-Wuerttemberg, Singapore Branch    | LBBWSG     | -     
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
 | Liberty Insurance Pte Ltd     | LIPL     | -     |
-| Liberty Specialty Markets Singapore Pte Ltd     | LSMS     | -     |
+| Liberty Specialty Markets Singapore Pte Ltd     | LSMS     | [Link](https://www.libertyspecialitymarkets.com.sg)     |
 | Lonpac Insurance Bhd.    | LONPAC     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
 | Maybank Singapore Limited     | MSL     | -     |
