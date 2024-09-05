@@ -58,8 +58,8 @@ variant: markdown
 | Liberty Insurance Pte Ltd     | LIPL     | -     |
 | Liberty Specialty Markets Singapore Pte Ltd     | LSMS     | -     |
 | Lonpac Insurance Bhd.    | LONPAC     | -     |
-| Maybank Singapore Limited     | MSL     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
+| Maybank Singapore Limited     | MSL     | -     |
 | Mega International Commercial Bank Co., Ltd.     | Megaicbc     | -     |
 | Mizuho Bank, Ltd.     | Mizuho SG     | -     |
 | MS First Capital Insurance Limited     | FCI     | -     |
