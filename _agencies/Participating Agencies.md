@@ -10,7 +10,7 @@ variant: markdown
 | Accountant-General's Department    | AGD| - |     
 | Attorney-General's Chambers   | AGC| - |     
 | Auditor-General’s Office    | AGO| - |     
-| Agency for Science, Technology and Research    | A*STAR| - |     
+| Agency for Science, Technology and Research    | ASTAR| - |     
 | Building and Construction Authority   | BCA| - |     
 | Central Provident Fund Board    | CPFB| - |
 | Civil Aviation Authority of Singapore    | CAAS| - |
