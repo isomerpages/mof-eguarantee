@@ -19,6 +19,7 @@ variant: markdown
 | Council for Estate Agencies    | CEA| - |
 | Cyber Security Agency of Singapore    | CSA| - |     
 | Defence Science and Technology Agency    | DSTA| - |
+| Department of Statistics    | DOS| - |
 | Economic Development Board   | EDB| - |     
 | Energy Market Authority    | EMA| - |
 | Enterprise Singapore    | ESG| - |
