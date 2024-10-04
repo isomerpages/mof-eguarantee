@@ -55,7 +55,7 @@ variant: markdown
 | Ministry of Trade &amp; Industry    | MTI| - | 
 | Nanyang Polytechnic    | NYP| - | 
 | National Council of Social Service    | NCCS| - | 
-| National Environment Agency    | NEA| [Link](https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/multilateral-environmental-agreements/basel-convention/application-for-basel-permit)|
+| National Environment Agency    | NEA| -|
 | National Heritage Board   | NHB| - |     
 | National Library Board    | NLB| - | 
 | National Parks Board    | NParks| For dog licensing: [Link](https://www.nparks.gov.sg/avs/pets/owning-a-pet/licensing-a-pet/banker%E2%80%99s-guarantee )|   
