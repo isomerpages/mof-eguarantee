@@ -53,6 +53,7 @@ variant: markdown
 | Ministry of Social and Family Development    | MSF| - |
 | Ministry of Sustainability and the Environment    | MSE| - | 
 | Ministry of Trade &amp; Industry    | MTI| - | 
+| Majlis Ugama Islam Singapura    | MUIS| - | 
 | Nanyang Polytechnic    | NYP| - | 
 | National Council of Social Service    | NCCS| - | 
 | National Environment Agency    | NEA| -|
