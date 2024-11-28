@@ -48,7 +48,7 @@ variant: markdown
 | Ministry of Health | MOH | - |
 | Ministry of Home Affairs | MHA | - |
 | Ministry of Law    | MINLAW| - |     
-| Ministry of Manpower  [\[3\]](#_ftn4)    | MOM<br><br> For **MOM_SB** &amp; **MOM_SB_MW**, please use: MOMSB|[Link](https://go.gov.sg/mom-fi-sb-faq) |
+| Ministry of Manpower   | MOM<br><br> For **MOM_SB** &amp; **MOM_SB_MW**, please use: MOMSB|[Link](https://go.gov.sg/mom-fi-sb-faq) |
 | Ministry of National Development    | MND| - |     
 | Ministry of Social and Family Development    | MSF| - |
 | Ministry of Sustainability and the Environment    | MSE| - | 
@@ -95,4 +95,3 @@ variant: markdown
 
 [\[1\]](#_ftnref1) If the Beneficiary is a Government Agency or a Statutory Board acting as an agent of the Government, using the Acronym listed below signifies "The Government of the Republic of Singapore, as represented by [Acronym of Ministry/ department within Ministry/ Organ of State/ Statutory Board]". If the Beneficiary is a Statutory Board, the Acronym used signifies the Statutory Board.<br>
 [\[2\]](#_ftnref2) If link is unavailable, please contact the participating agency for more information.<br>
-[\[3\]](#_ftnref4) MOM Employment Agency will only be able to accept eGuarantees at a later date.
