@@ -73,6 +73,7 @@ variant: markdown
 | Singapore Life Ltd    | Singlife    | -     |
 | Sing Investments &amp; Finance Ltd     | SingFinance    | [Link](https://www.singfinance.com.sg/eguaranteegov)     |
 | Skandinaviska Enskilda Banken AB (publ)   | SEB   | -     |
+| Societe Generale     | SG    | -     |
 | Sompo Insurance Singapore Pte. Ltd.     | SOM    | -     |
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
 | State Bank of India     | SBI     | [Link](https://sg.statebank/trade-finance)    |
