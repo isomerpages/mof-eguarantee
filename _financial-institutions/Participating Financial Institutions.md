@@ -30,7 +30,7 @@ variant: markdown
 | DBS Bank Ltd.     | DBS     | [Link](https://www.dbs.com.sg/corporate/solutions/trade-and-supply-chain-finance/electronic-bankers-guarantee-programme)     |
 | Deutsche Bank Aktiengesellschaft     | DBSG   | [Link](https://autobahn.db.com)    |
 | DZ Bank AG Deutsche Zentral-Genossenschaftsbank     | DZB   | -     |
-| ECICS Limited     | ECICS     | [Link](https://www.ecics.com.sg)     |
+| ECICS Limited     | ECICS     | [Link](https://www.ecics.com)     |
 | EQ Insurance Company Limited     | EQI     | [Link](https://www.eqinsurance.com.sg)     |
 | ERGO Insurance Pte. Ltd.     | ERGO    | -     |
 | Etiqa Insurance Pte Ltd     | EIPL     | -     |
