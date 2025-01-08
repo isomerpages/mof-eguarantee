@@ -45,6 +45,7 @@ variant: markdown
 | Ministry of Digital Development and Information    | MDDI| - |
 | Ministry of Education | MOE | - |   
 | Ministry of Finance | MOF | - |
+| Ministry of Foreign Affairs | MFA | - |
 | Ministry of Health | MOH | - |
 | Ministry of Home Affairs | MHA | - |
 | Ministry of Law    | MINLAW| - |     
