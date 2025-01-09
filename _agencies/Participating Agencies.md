@@ -21,6 +21,7 @@ variant: markdown
 | Defence Science and Technology Agency    | DSTA| - |
 | Department of Statistics    | DOS| - |
 | Economic Development Board   | EDB| - |     
+| Elections Department   | ELD| - | 
 | Energy Market Authority    | EMA| - |
 | Enterprise Singapore    | ESG| - |
 | Gambling Regulatory Authority | GRA| - |    
