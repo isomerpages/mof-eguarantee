@@ -13,21 +13,44 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Schools</p>
+<p>School</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Acronym</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>School Owner<sup>1</sup>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>zxc</p>
+<p>Ai Tong School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ATS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Hokkien Huay Kuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anglo-Chinese Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACJC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Secretary of the Trustees of the Methodist Church in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anglo-Chinese School (Barker Road)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACSB</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -35,21 +58,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>vbn</p>
+<p>Catholic High School (Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>m</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>CHS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -57,21 +69,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Catholic High School (Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>CHSS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -79,10 +80,626 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Catholic Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CJC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ (Kellock)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IJKS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ Katong Convent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ Our Lady Of Good Counsel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OLGC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ Our Lady Of The Nativity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJOLN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ Primary (Toa Payoh)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IJP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ Secondary (Toa Payoh)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IJSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ St. Joseph's Convent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SJCS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ St. Theresa's Convent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSTC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chongfu School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CFS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Christ Church Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chung Cheng High School (Main)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>De La Salle School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DLSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fairfield Methodist School (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Geylang Methodist School (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GMSP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Geylang Methodist School (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GMSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hai Sing Catholic School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HSCS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Holy Innocents' High School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HIHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Holy Innocents' Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HIPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hong Wen School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HWS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kheng Cheng School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KCS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kuo Chuan Presbyterian Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KCPP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Maha Bodhi School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MBS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Manjusri Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MJR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Maris Stella High School (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSHP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Maris Stella High School (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marymount Convent School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MCS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mee Toh School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MTS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Montfort Junior School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MJS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Montfort Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nan Chiau High School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nan Hua Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NHPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nanyang Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NASS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pei Chun Public School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PCPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pei Hwa Presbyterian Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PHPP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Presbyterian High School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Swastika School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Andrew's Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAJC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Andrew's Junior School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAJS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Andrew's Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SASS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Anthony's Canossian Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SACP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Anthony's Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Gabriel's Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Gabriel's Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Hilda's Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Margaret's School (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMSP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Margaret's School (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Patrick's School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Stephen's School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tao Nan School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TNS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yuying Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YYSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anglo-Chinese School (Independent)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACSI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assumption Pathway School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>APS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Institution (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Girls' School (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RGS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -90,4 +707,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://www.eguarantee.gov.sg/agencies/#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[1]</u></a> For
+avoidance of doubt, the Beneficiary shall be the legal owner of the school
+and not the school entity itself.</p>
