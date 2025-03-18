@@ -567,8 +567,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>SGPS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>The St. Gabriel's Foundation</p>
 </td>
 </tr>
 <tr>
@@ -578,9 +578,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>SGSS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -589,8 +586,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>SHSS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="3" colspan="1">
+<p>The Secretary of the Synod of the Diocese of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -600,9 +597,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>SMSP</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -610,9 +604,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SMSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -622,8 +613,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>SPS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>The Visitor in Singapore of</p>
+<p>The Christian Brothers' Schools</p>
 </td>
 </tr>
 <tr>
@@ -632,9 +624,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -645,7 +634,7 @@ description: ""
 <p>TNS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Hokkien Huay Kuan</p>
 </td>
 </tr>
 <tr>
@@ -656,7 +645,7 @@ description: ""
 <p>YYSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yock Eng Education Fund</p>
 </td>
 </tr>
 </tbody>
