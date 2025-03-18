@@ -185,7 +185,7 @@ description: ""
 <p>CCSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Secretary of th Synod of the Diocese of Singapore</p>
+<p>The Secretary of the Synod of the Diocese of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ description: ""
 <p>CCM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chung Cheng High School Limited</p>
 </td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ description: ""
 <p>DLSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Visitor in Singapore of the Christian Brothers' Schools</p>
 </td>
 </tr>
 <tr>
