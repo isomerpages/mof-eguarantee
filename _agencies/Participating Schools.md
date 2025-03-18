@@ -317,7 +317,7 @@ description: ""
 <p>KCPP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Presbyterian Church in Singapore</p>
 </td>
 </tr>
 <tr>
@@ -327,8 +327,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>MBS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>Singapore Buddhist Federation</p>
 </td>
 </tr>
 <tr>
@@ -338,9 +338,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>MJR</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -349,8 +346,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>MSHP</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>Maris Stella High School Limited</p>
 </td>
 </tr>
 <tr>
@@ -359,9 +356,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>MSHS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -372,7 +366,8 @@ description: ""
 <p>MCS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Reverend Mother Superior</p>
+<p>of The Good Shepherd Nuns in Malaya</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +378,7 @@ description: ""
 <p>MTS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mee Toh School Ltd</p>
 </td>
 </tr>
 <tr>
@@ -394,18 +389,18 @@ description: ""
 <p>MJS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Secretary of the Trustees of The Methodist Church in Singapore</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Montfort Secondary School</p>
+<p>Montfort Junior/ Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>St. Gabriel’s Foundation</p>
 </td>
 </tr>
 <tr>
