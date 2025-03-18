@@ -443,8 +443,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>NAPS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>The Ngee Ann Kongsi</p>
 </td>
 </tr>
 <tr>
@@ -453,9 +453,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>NASS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -466,7 +463,7 @@ description: ""
 <p>PCPS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pei Chun Public School Limited</p>
 </td>
 </tr>
 <tr>
@@ -477,7 +474,7 @@ description: ""
 <p>PHPP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Glory Presbyterian Church</p>
 </td>
 </tr>
 <tr>
@@ -488,7 +485,18 @@ description: ""
 <p>PHS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&lt;to insert&gt;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Girls' School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RGS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Girls' School</p>
 </td>
 </tr>
 <tr>
@@ -499,7 +507,7 @@ description: ""
 <p>RSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>World Red Swastika Society</p>
 </td>
 </tr>
 <tr>
@@ -509,8 +517,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>SAJC</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="3" colspan="1">
+<p>The Secretary of the Synod of the Diocese of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -520,9 +528,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>SAJS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -530,9 +535,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SASS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -543,7 +545,7 @@ description: ""
 <p>SACP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Canossian Daughters of Charity</p>
 </td>
 </tr>
 <tr>
@@ -554,7 +556,8 @@ description: ""
 <p>SAPS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Visitor in Singapore of</p>
+<p>The Christian Brothers' Schools</p>
 </td>
 </tr>
 <tr>
@@ -651,28 +654,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>YYSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assumption Pathway School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>APS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Raffles Girls' School (Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RGS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
