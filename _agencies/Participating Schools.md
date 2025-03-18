@@ -41,7 +41,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>ACJC</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>The Secretary of the Trustees of the Methodist Church in Singapore</p>
 </td>
 </tr>
@@ -51,9 +51,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>ACSB</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
