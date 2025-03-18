@@ -41,7 +41,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>ACJC</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>The Secretary of the Trustees of the Methodist Church in Singapore</p>
 </td>
 </tr>
@@ -55,13 +55,32 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Anglo-Chinese School (Independent)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACSI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assumption Pathway School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>APS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brothers of St. Gabriel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Catholic High School (Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="3" colspan="1">
+<p>The Titular Roman Catholic Archbishop of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -71,9 +90,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>CHSS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -81,9 +97,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>CJC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -93,8 +106,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>IJKS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="8" colspan="1">
+<p>The Lady Superior of the Convent of the Holy Infant Jesus</p>
 </td>
 </tr>
 <tr>
@@ -104,9 +117,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>KC</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -114,9 +124,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>OLGC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -126,9 +133,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>CHIJOLN</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -136,9 +140,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>IJP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -148,9 +149,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>IJSS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -159,9 +157,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>SJCS</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -169,9 +164,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>CSTC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -182,7 +174,7 @@ description: ""
 <p>CFS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Hokkien Huay Kuan</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +185,7 @@ description: ""
 <p>CCSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Secretary of th Synod of the Diocese of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -653,17 +645,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>YYSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Anglo-Chinese School (Independent)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ACSI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
