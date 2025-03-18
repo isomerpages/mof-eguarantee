@@ -218,7 +218,7 @@ description: ""
 <p>FMSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Secretary of the Trustees of the Methodist Church in Singapore</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ description: ""
 <p>GMSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&lt;to insert&gt;</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ description: ""
 <p>GMSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&lt;to insert&gt;</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ description: ""
 <p>HSCS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Superior of the Institute of the Franciscan Missionaries of Mary</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ description: ""
 <p>HIHS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Titular Roman Catholic of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ description: ""
 <p>HIPS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Titular Roman Catholic Archbishop of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +284,18 @@ description: ""
 <p>HWS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hin Ann Huay Kuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Institution (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Chinese High School</p>
 </td>
 </tr>
 <tr>
@@ -295,7 +306,7 @@ description: ""
 <p>KCS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kheng Cheng School 1927 LLP</p>
 </td>
 </tr>
 <tr>
@@ -656,17 +667,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>APS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hwa Chong Institution (Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HCI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
