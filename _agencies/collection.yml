@@ -2,4 +2,5 @@ collections:
   agencies:
     output: true
     order:
+      - Participating Schools.md
       - Participating Agencies.md
