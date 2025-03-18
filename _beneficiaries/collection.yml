@@ -2,5 +2,5 @@ collections:
   beneficiaries:
     output: true
     order:
-      - Participating Independent and Government aided schools.md
       - Participating Agencies.md
+      - Participating Independent and Government aided schools.md
