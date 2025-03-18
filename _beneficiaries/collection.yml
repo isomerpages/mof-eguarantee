@@ -1,5 +1,5 @@
 collections:
-  agencies:
+  beneficiaries:
     output: true
     order:
       - Participating Schools.md
