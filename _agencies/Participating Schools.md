@@ -411,7 +411,7 @@ description: ""
 <p>NCHS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Hokkien Huay Kuan</p>
 </td>
 </tr>
 <tr>
@@ -422,7 +422,7 @@ description: ""
 <p>NHPS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nan Hua Primary School Limited</p>
 </td>
 </tr>
 <tr>
@@ -433,7 +433,7 @@ description: ""
 <p>NYPS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Management Committee of Nanyang Primary School</p>
 </td>
 </tr>
 <tr>
@@ -682,4 +682,4 @@ description: ""
 </table>
 <p><a href="https://www.eguarantee.gov.sg/agencies/#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[1]</u></a> For
 avoidance of doubt, the Beneficiary shall be the legal owner of the school
-and not the school entity itself.</p>
+and not the school entity itself.ingapore Hokkien Huay Kuan</p>
