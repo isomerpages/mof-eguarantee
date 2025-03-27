@@ -47,18 +47,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Anglo-Chinese School (Barker Road)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ACSB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Anglo-Chinese School (Independent)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ACSI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anglo-Chinese School (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACSP</p>
 </td>
 </tr>
 <tr>
@@ -74,21 +74,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Catholic High School (Primary)</p>
+<p>Catholic High School (Pri and Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHS</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>The Titular Roman Catholic Archbishop of Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Catholic High School (Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHSS</p>
 </td>
 </tr>
 <tr>
@@ -106,16 +98,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>IJKS</p>
 </td>
-<td rowspan="8" colspan="1">
+<td rowspan="5" colspan="1">
 <p>The Lady Superior of the Convent of the Holy Infant Jesus</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHIJ Katong Convent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KC</p>
 </td>
 </tr>
 <tr>
@@ -131,15 +115,7 @@ description: ""
 <p>CHIJ Our Lady Of The Nativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJOLN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHIJ Primary (Toa Payoh)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IJP</p>
+<p>COLN</p>
 </td>
 </tr>
 <tr>
@@ -156,14 +132,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SJCS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHIJ St. Theresa's Convent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CSTC</p>
 </td>
 </tr>
 <tr>
@@ -229,18 +197,7 @@ description: ""
 <p>GMSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt;to insert&gt;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Geylang Methodist School (Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GMSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&lt;to insert&gt;</p>
+<p>The Secretary Of the Trustees of the Methodist Church in Singapore</p>
 </td>
 </tr>
 <tr>
@@ -341,21 +298,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maris Stella High School (Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MSHP</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Maris Stella High School Limited</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Maris Stella High School (Secondary)</p>
+<p>Maris Stella High School (Pri and Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MSHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maris Stella High School Limited</p>
 </td>
 </tr>
 <tr>
@@ -383,18 +332,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Montfort Junior School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MJS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Secretary of the Trustees of The Methodist Church in Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Montfort Junior/ Secondary School</p>
+<p>Montfort Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MSS</p>
@@ -443,16 +381,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>NAPS</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>The Ngee Ann Kongsi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ngee Ann Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NASS</p>
 </td>
 </tr>
 <tr>
@@ -479,73 +409,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Presbyterian High School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PHS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&lt;to insert&gt;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Raffles Girls' School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RGS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raffles Girls' School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Red Swastika School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>World Red Swastika Society</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>St. Andrew's Junior College</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SAJC</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>The Secretary of the Synod of the Diocese of Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>St. Andrew's Junior School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJS</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>St. Andrew's Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SASS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>St. Anthony's Canossian Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SACP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Canossian Daughters of Charity</p>
+<p>The Secretary of the Synod of the Diocese of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -562,31 +432,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>St. Gabriel's Primary School</p>
+<p>St. Hilda's Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SGPS</p>
+<p>SHPS</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>The St. Gabriel's Foundation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>St. Gabriel's Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SGSS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>St. Hilda's Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SHSS</p>
-</td>
-<td rowspan="3" colspan="1">
 <p>The Secretary of the Synod of the Diocese of Singapore</p>
 </td>
 </tr>
@@ -596,34 +447,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SMSP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>St. Margaret's School (Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SMSS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>St. Patrick's School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPS</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>The Visitor in Singapore of</p>
-<p>The Christian Brothers' Schools</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>St. Stephen's School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSS</p>
 </td>
 </tr>
 <tr>
