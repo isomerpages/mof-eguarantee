@@ -86,6 +86,7 @@ variant: markdown
 | The Toronto-Dominion Bank     | TD SG Branch    | -     |
 | Tokio Marine Insurance Singapore Ltd.     | TMIS      | -     |
 | Toronto Dominion (South East Asia) Limited     | TD SEA    | -     |
+| UBS AG  | UBS     | -
 | United Overseas Bank Limited    | UOB     | [Link](https://www.uob.com.sg/electronicbg)     |
 | United Overseas Insurance Limited      | UOI      | [Link](https://www.uoi.com.sg)     |
 
