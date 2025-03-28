@@ -41,16 +41,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>ACJC</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>The Secretary of the Trustees of the Methodist Church in Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Anglo-Chinese School (Independent)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ACSI</p>
 </td>
 </tr>
 <tr>
@@ -93,21 +85,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHIJ (Kellock)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IJKS</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>The Lady Superior of the Convent of the Holy Infant Jesus</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>CHIJ Our Lady Of Good Counsel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OLGC</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>The Lady Superior of the Convent of the Holy Infant Jesus</p>
 </td>
 </tr>
 <tr>
@@ -202,17 +186,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hai Sing Catholic School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HSCS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Superior of the Institute of the Franciscan Missionaries of Mary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Holy Innocents' High School</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,17 +226,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Chinese High School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kheng Cheng School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KCS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kheng Cheng School 1927 LLP</p>
 </td>
 </tr>
 <tr>
@@ -361,17 +323,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Nan Hua Primary School Limited</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nanyang Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NYPS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Management Committee of Nanyang Primary School</p>
 </td>
 </tr>
 <tr>
