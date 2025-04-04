@@ -34,6 +34,7 @@ variant: markdown
 | Inland Revenue Authority of Singapore    | IRAS<br><br> For **GST Registration**, please use: CGST| [Link](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/guarantee) |
 | Institute of Technical Education    | ITE | - 
 | Intellectual Property Office of Singapore | IPOS| - |    
+| Immigration &amp; Checkpoints Authority | ICA| - |    
 | ISEAS - Yusof Ishak Institute   | ISEAS| - |     
 | Istana    | ISTANA| - |     
 | Judiciary - State Courts   | SC | - |
