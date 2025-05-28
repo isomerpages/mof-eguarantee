@@ -466,8 +466,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>NCHS</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Singapore Hokkien Huay Kuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nan Chiau Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCPS</p>
 </td>
 </tr>
 <tr>
@@ -483,13 +491,54 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nanyang Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Management Committee of Nanyang Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nanyang Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYJC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chung Cheng High School Limited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ngee Ann Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NAPS</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>The Ngee Ann Kongsi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NASS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Paya Lebar Methodist Girls' School (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PLPR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Secretary of the Trustees of the Methodist Church in Singapore</p>
 </td>
 </tr>
 <tr>
