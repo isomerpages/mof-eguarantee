@@ -13,6 +13,7 @@ variant: markdown
 | Banco Bilbao Vizcaya Argentaria    | BBVA    | -    |
 | Banco Santander, S.A.     | BSCH SG     |  [Link](https://www.santander.com/en/home)    |
 | Bangkok Bank Public Company Limited     | BBL   | -     |
+| Bank of America , National Association (Singapore Branch)     | BOA  | -     |
 | Bank of China Limited | BOC |  [Link](https://www.bankofchina.com/sg/cbservice/cb3/)    |
 | Bank of India    | BOI SG     | [Link](https://www.boi.com.sg)    |
 | Berkshire Hathaway Specialty Insurance Company     | BHSI   | -     |
