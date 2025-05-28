@@ -442,13 +442,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Montfort Junior School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MJS</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>St. Gabriel’s Foundation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Montfort Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St. Gabriel’s Foundation</p>
 </td>
 </tr>
 <tr>
