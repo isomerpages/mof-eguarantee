@@ -41,8 +41,24 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>ACJC</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p>The Secretary of the Trustees of the Methodist Church in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anglo-Chinese School (Barker Road)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACSB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anglo-Chinese School (Independent)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACSI</p>
 </td>
 </tr>
 <tr>
@@ -66,6 +82,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Canossa Catholic Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Canossian Daughters of Charity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Catholic High School (Pri and Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,13 +112,29 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>CHIJ Katong Convent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KC</p>
+</td>
+<td rowspan="10" colspan="1">
+<p>The Lady Superior of the Convent of the Holy Infant Jesus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ (Kellock)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IJKS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>CHIJ Our Lady Of Good Counsel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OLGC</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>The Lady Superior of the Convent of the Holy Infant Jesus</p>
 </td>
 </tr>
 <tr>
@@ -104,6 +147,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>CHIJ Our Lady Queen of Peace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OLQP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ Primary (Toa Payoh)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IJP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>CHIJ Secondary (Toa Payoh)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,10 +171,26 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>CHIJ St. Nicholas Girls' School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SNGS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>CHIJ St. Joseph's Convent</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SJCS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ St. Theresa's Convent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSTC</p>
 </td>
 </tr>
 <tr>
@@ -164,13 +239,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Fairfield Methodist School (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMSP</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>The Secretary of the Trustee of the Methodist Church in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Fairfield Methodist School (Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FMSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Secretary of the Trustees of the Methodist Church in Singapore</p>
 </td>
 </tr>
 <tr>
@@ -180,8 +263,24 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>GMSP</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>The Secretary Of the Trustees of the Methodist Church in Singapore</p>
+<p>Geylang Methodist School (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GMSS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hai Sing Catholic School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HSCS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Superior of the Institute of the Franciscan Missionaries of Mary</p>
 </td>
 </tr>
 <tr>
@@ -230,13 +329,43 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Kheng Cheng School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KCS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kheng Cheng School 1927 LLP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kong Hwa School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Hokkien Huay Kuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Kuo Chuan Presbyterian Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KCPP</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>The Presbyterian Church in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kuo Chuan Presbyterian Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KCPS</p>
 </td>
 </tr>
 <tr>
@@ -290,6 +419,25 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mee Toh School Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Methodist Girls’ School (Primary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MGSP</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>The Secretary of the Trustees of The Methodist Church in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Methodist Girls’ School (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MGSS</p>
 </td>
 </tr>
 <tr>
