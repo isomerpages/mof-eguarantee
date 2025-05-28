@@ -565,13 +565,92 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Presbyterian High School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Trustees of the Presbyterian Church in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Girls' School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RGS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Girls' School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Swastika School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Red Swastika Society</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Science and Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Science and Technology&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Andrew's Junior College</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAJC</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>The Secretary of the Synod of the Diocese of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>St. Andrew's Junior School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAJS</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>The Secretary of the Synod of the Diocese of Singapore</p>
+<p>St. Andrew's Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SASS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Anthony's Canossian Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SACP</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>The Canossian Daughters of Charity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Anthony's Canossian Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SACS</p>
 </td>
 </tr>
 <tr>
@@ -588,13 +667,40 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>St. Gabriel's Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGPS</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>The St. Gabriel's Foundation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Gabriel's Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGSS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>St. Hilda's Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SHPS</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p>The Secretary of the Synod of the Diocese of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Hilda's Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHSS</p>
 </td>
 </tr>
 <tr>
@@ -603,6 +709,41 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SMSP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Margaret's School (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMSS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Patrick's School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPS</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>The Visitor in Singapore of the Christian Brothers' Schools</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Stephen's School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>St. Joseph's Institution Junior</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIJI</p>
 </td>
 </tr>
 <tr>
