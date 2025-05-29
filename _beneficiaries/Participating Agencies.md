@@ -15,6 +15,8 @@ variant: markdown
 | Central Provident Fund Board    | CPFB| - |
 | Civil Aviation Authority of Singapore    | CAAS| - |
 | Civil Service College    | CSC| - |
+| Communicable Diseases Agency    | CDA| - |     
+| Competition and Consumer Commission of Singapore    | CCCS| - |   
 | Corrupt Practices Investigation Bureau    | CPIB| - |   
 | Council for Estate Agencies    | CEA| - |
 | Cyber Security Agency of Singapore    | CSA| - |     
@@ -64,6 +66,8 @@ variant: markdown
 | National Heritage Board   | NHB| - |     
 | National Library Board    | NLB| - | 
 | National Parks Board    | NParks| For dog licensing: [Link](https://www.nparks.gov.sg/avs/pets/owning-a-pet/licensing-a-pet/banker%E2%80%99s-guarantee )|   
+| National Research Foundation    | NRF| - |  
+| National Security Coordination Secretariat    | NSCS| - |  
 | National Youth Council    | NYC| - |     
 | Ngee Ann Polytechnic    | NP| - |     
 | Parliament of Singapore    | Parl | - |
