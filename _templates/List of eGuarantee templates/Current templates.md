@@ -7,7 +7,14 @@ variant: tiptap
 ---
 <p>Choose the right guarantee template based on the instructions by the Agency
 you are dealing with.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -84,24 +91,6 @@ Worker Bond use cases</p>
 <td rowspan="1" colspan="1">
 <p>For <strong>banks</strong> issuing a guarantee for MOM's Migrant Worker
 Bond use cases</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CUSTOMS_REG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/customs_reg.pdf" rel="noopener noreferrer nofollow" target="_blank">CUSTOMS_REG.pdf</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Customs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Security Deposit Guarantee for Compliance with Regulatory Requirements</p>
 </td>
 </tr>
 </tbody>
