@@ -9,7 +9,14 @@ variant: tiptap
 <p>All onboarded agencies will commence adoption of Universal Template for
 all new tenders/applications issued on or after 6 March 2024. Click <a href="/templates/list-of-eguarantee-templates/existing/" rel="noopener noreferrer nofollow" target="_blank">here</a> for <strong>current </strong>templates.</p>
 <p>Please refer to the <strong>past</strong> eGuarantee@Gov templates below.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -288,6 +295,24 @@ Application</p>
 <p>For Security Deposits Pursuant to Section 20(2) of the Street Works Act
 Where a Person is Required to Deposit or Secure a Sum for the Execution
 of Street Works Under Section 16 or 18 of the Street Works Act</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CUSTOMS_REG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/customs_reg.pdf" rel="noopener noreferrer nofollow" target="_blank">CUSTOMS_REG.pdf</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Customs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Security Deposit Guarantee for Compliance with Regulatory Requirements</p>
 </td>
 </tr>
 </tbody>
