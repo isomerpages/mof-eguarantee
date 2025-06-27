@@ -107,5 +107,4 @@ If the Beneficiary is a Statutory Board, the Acronym used signifies the Statutor
 
 If the Purpose of Guarantee Field states that the Statutory Board is acting for and on behalf of the Government of the Republic of Singapore, the use of the Statutory Board's Acronym signifies the "Government of the Republic of Singapore, represented by the Statutory Board." <br>
 
-[\[2\]](#_ftnref2) If link is unavailable, please contact the participating agency for more information.   
-test<br>
+[\[2\]](#_ftnref2) If link is unavailable, please contact the participating agency for more information.<br>
