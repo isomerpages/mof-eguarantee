@@ -101,5 +101,10 @@ variant: markdown
 
 <br>
 
-[\[1\]](#_ftnref1) If the Beneficiary is a Government Agency or a Statutory Board acting as an agent of the Government, using the Acronym listed below signifies "The Government of the Republic of Singapore, as represented by [Acronym of Ministry/ department within Ministry/ Organ of State/ Statutory Board]". If the Beneficiary is a Statutory Board, the Acronym used signifies the Statutory Board.<br>
+[\[1\]](#_ftnref1) If the Beneficiary is a Ministry, department within a Ministry or Organ of State, using the Acronym listed below signifies "The Government of the Republic of Singapore, represented by [Acronym of Ministry/ department within Ministry/ Organ of State]". 
+
+If the Beneficiary is a Statutory Board, the Acronym used signifies the Statutory Board unless otherwise stated in the Purpose of Guarantee field that it is acting for and on behalf of the Government of the Republic of Singapore. 
+
+If the Purpose of Guarantee Field states that the Statutory Board is acting for and on behalf of the Government of the Republic of Singapore, the use of the Statutory Board's Acronym signifies the "Government of the Republic of Singapore, represented by the Statutory Board." <br>
+
 [\[2\]](#_ftnref2) If link is unavailable, please contact the participating agency for more information.<br>

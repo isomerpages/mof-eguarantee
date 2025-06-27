@@ -770,6 +770,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.eguarantee.gov.sg/agencies/#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[1]</u></a> For
+<p><a href="https://safe.menlosecurity.com/https://www.eguarantee.gov.sg/participating-schools/" rel="noopener noreferrer nofollow" target="_blank"><u>[1]</u></a> For
 avoidance of doubt, the Beneficiary shall be the legal owner of the school
 and not the school entity itself.</p>
