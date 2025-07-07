@@ -18,7 +18,7 @@ variant: markdown
 | Bank of India    | BOI SG     | [Link](https://www.boi.com.sg)    |
 | Berkshire Hathaway Specialty Insurance Company     | BHSI   | -     |
 | BNP Paribas     | BNP     | [Link](https://apac.bnpparibas/en/our-solutions/global-banking/)     |
-| Cathay United Bank     | CUB     |  -  |
+| Cathay United Bank     | CUB     |  [Link](https://www.cathaybk.com.tw/sg/en/services/trade-finance/)  |
 | China Citic Bank International Limited Singapore Branch     | CNCBISG     | -     |
 | China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](https://www.sg.cntaiping.com)     |
 | Chubb Insurance Singapore Limited     | Chubb     | -     |
