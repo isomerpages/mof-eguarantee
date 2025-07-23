@@ -20,11 +20,10 @@ If you are unsure, please approach Agencies on the Purpose of Guarantee text to 
 | -------- | -------- | 
 | - Tender deposit for sale site <br> - Application deposit for reserve list site    |  [\[1\]](#_ftn1)
 | - Advance payment<br>- Mobilisation advance payment<br> - Retention sum <br> - Security for tunnel boring machines<br> - Contractual performance   |  [\[2\]](#_ftn2)
-| - For and on behalf of the Government of the Republic of Singapore<br>  |  [\[3\]](#_ftn3)
+
 
 
 
 
 [\[1\]](#_ftnref1) Commonly used by HDB, JTC, SLA, URA for land sales use cases. <br>
 [\[2\]](#_ftnref2) Commonly used by LTA. <br>
-[\[3\]](#_ftnref3) This statement must be entered in the Purpose of Guarantee field when the SB is acting on behalf of the Government and the intention is for the Government (and not the SB) to be the Beneficiary of the eGuarantee. <br>
