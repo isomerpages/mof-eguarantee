@@ -36,6 +36,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Anglican High School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AHS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Secretary of the Synod of the Diocese of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Anglo-Chinese Junior College</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,6 +78,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>ACSP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assumption English School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St Gabriel's Foundation</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +139,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>KC</p>
 </td>
-<td rowspan="10" colspan="1">
+<td rowspan="11" colspan="1">
 <p>The Lady Superior of the Convent of the Holy Infant Jesus</p>
 </td>
 </tr>
@@ -151,6 +173,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>OLQP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ (Katong) Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IJKP</p>
 </td>
 </tr>
 <tr>
@@ -222,8 +252,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>CCM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Chung Cheng High School Limited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chung Cheng High School (Yishun)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCHY</p>
 </td>
 </tr>
 <tr>
@@ -539,6 +577,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>The Secretary of the Trustees of the Methodist Church in Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Paya Lebar Methodist Girls' School (Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PLSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Methodist Church of Singapore</p>
 </td>
 </tr>
 <tr>
