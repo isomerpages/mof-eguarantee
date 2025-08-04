@@ -61,7 +61,7 @@ variant: markdown
 | Ministry of Trade &amp; Industry    | MTI| - | 
 | Majlis Ugama Islam Singapura    | MUIS| - | 
 | Nanyang Polytechnic    | NYP| - | 
-| National Council of Social Service    | NCSS| - | 
+| National Council of Social Service    | NCSS| [Link](https://www.ncss.gov.sg)  | 
 | National Environment Agency    | NEA| -|
 | National Heritage Board   | NHB| - |     
 | National Library Board    | NLB| - | 
