@@ -70,6 +70,7 @@ variant: markdown
 | National Security Coordination Secretariat    | NSCS| - |  
 | National Youth Council    | NYC| - |     
 | Ngee Ann Polytechnic    | NP| - |     
+| National Arts Council     |NAC|-|
 | Parliament of Singapore    | Parl | - |
 | People's Association    | PA | - |
 | Prime Minister's Office    | PMO| - |
@@ -102,6 +103,10 @@ variant: markdown
 <br>
 
 [\[1\]](#_ftnref1) 
-If the Beneficiary is a Government Agency or a Statutory Board acting as an agent of the Government, using the Acronym listed below signifies “The Government of the Republic of Singapore, as represented by [Acronym of Ministry/ department within Ministry/ Organ of State/ Statutory Board]”. If the Beneficiary is a Statutory Board, the Acronym used signifies the Statutory Board. <br>
+If the Acronym corresponds to a Ministry, department within a Ministry or Organ of State, the Acronym signifies "The Government of the Republic of Singapore, represented by [Ministry/department within Ministry/Organ of state]".
+
+If the Acronym corresponds to a Statutory Board, the Acronym signifies the Statutory Board, unless the Case Reference field contains the prefix “GA”.
+
+If the Acronym corresponds to a Statutory Board and the Case Reference field contains the “GA” prefix, the Acronym signifies “The Government of the Republic of Singapore, represented by the Statutory Board”.<br>
 
 [\[2\]](#_ftnref2) If link is unavailable, please contact the participating agency for more information.<br>
