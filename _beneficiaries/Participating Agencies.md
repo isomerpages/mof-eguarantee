@@ -70,6 +70,7 @@ variant: markdown
 | National Security Coordination Secretariat    | NSCS| - |  
 | National Youth Council    | NYC| - |     
 | Ngee Ann Polytechnic    | NP| - |     
+| National Arts Council |NAC|-|
 | Parliament of Singapore    | Parl | - |
 | People's Association    | PA | - |
 | Prime Minister's Office    | PMO| - |
