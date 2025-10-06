@@ -76,6 +76,7 @@ variant: markdown
 | Skandinaviska Enskilda Banken AB (publ)   | SEB   | -     |
 | Societe Generale     | SG    | -     |
 | Sompo Insurance Singapore Pte. Ltd.     | SOM    | -     |
+| Shanghai Pudong Development Bank Co., Ltd. Singapore Branch |SPDBSG |-|
 | Standard Chartered Bank (Singapore) Limited     | SCBSL     | -     |
 | State Bank of India     | SBI     | [Link](https://sg.statebank/trade-finance)    |
 | Sumitomo Mitsui Banking Corporation, Singapore Branch     | SMBC     | -     |
