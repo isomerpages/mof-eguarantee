@@ -356,7 +356,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hwa Chong Institution (Secondary)</p>
+<p>Hwa Chong Institution</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HCI</p>
