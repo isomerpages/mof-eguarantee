@@ -8,6 +8,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | AIG Asia Pacific Insurance Pte Ltd     | AIG     | [Link](https://www.aig.sg/personal/domestic-helper-insurance#start)     |
 | Allied World Assurance Company, Ltd (Singapore Branch)     | Allied World Singapore    | -     |
+| Allianz Insurance Singapore Pte Ltd | AIS | [Link](https://www.allianz.sg/)      |
 | Australia &amp; New Zealand Banking Group Ltd    | ANZ     | [Link](https://www.anz.com/institutional/global/singapore/en/)      |
 | Banco Bilbao Vizcaya Argentaria    | BBVA    | -    |
 | Banco Santander, S.A.     | BSCH SG     |  [Link](https://www.santander.com/en/home)    |
