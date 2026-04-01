@@ -56,7 +56,7 @@ variant: markdown
 | Krung Thai Bank Public Company Limited     | KTBSG   | -     |
 | Landesbank Baden-Wuerttemberg, Singapore Branch    | LBBWSG     | -     
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
-| Liberty Pte Limited     | LSMS     | [Link]((https://www.libertyinternational.com/sg))     |
+| Liberty Pte Limited     | LSMS     | [Link](libertyinternational.com/sg)     |
 | Lonpac Insurance Bhd.    | LONPAC     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
 | Maybank Singapore Limited     | MSL     | -     |
