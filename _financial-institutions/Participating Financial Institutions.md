@@ -18,7 +18,7 @@ variant: markdown
 | Bank of India    | BOI SG     | [Link](https://www.boi.com.sg)    |
 | Berkshire Hathaway Specialty Insurance Company     | BHSI   | -     |
 | BNP Paribas     | BNP     | [Link](https://apac.bnpparibas/en/our-solutions/global-banking/)     |
-| Cathay United Bank     | CUB     |  [Link](https://www.cathaybk.com.tw/sg/en/services/trade-finance/)  |
+| Cathay United Bank     | CUB     |[Link](https://www.cathaybk.com.tw/sg/en/services/trade-finance/)  |
 | China Citic Bank International Limited Singapore Branch     | CNCBISG     | -     |
 | China Taiping Insurance (Singapore) Pte. Ltd.     | CTPIS     | [Link](https://www.sg.cntaiping.com)     |
 | Chubb Insurance Singapore Limited     | Chubb     | -     |
@@ -56,7 +56,7 @@ variant: markdown
 | Krung Thai Bank Public Company Limited     | KTBSG   | -     |
 | Landesbank Baden-Wuerttemberg, Singapore Branch    | LBBWSG     | -     
 | LGT Bank (Singapore) Ltd.     | LGTS     | -     |
-| Liberty Pte Limited     | LSMS     | [Link](libertyinternational.com/sg)     |
+| Liberty Pte Limited     | LSMS     |[Link](https://www.libertyinternational.com/sg) |
 | Lonpac Insurance Bhd.    | LONPAC     | -     |
 | Malayan Banking Berhad Singapore Branch     | MBS     | -     |
 | Maybank Singapore Limited     | MSL     | -     |
