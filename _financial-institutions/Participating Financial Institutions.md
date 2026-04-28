@@ -193,8 +193,7 @@ variant: tiptap
 <p>CCB</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sg.ccb.com/lng/singapore/old/en/index.shtml" rel="noopener nofollow" target="_blank">Link</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
