@@ -187,7 +187,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>China Construction Bank Corporation (Singapore Branch)</p>
+<p>China Construction Bank Corporation Singapore Branch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCB</p>
