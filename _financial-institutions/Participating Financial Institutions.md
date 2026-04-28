@@ -758,7 +758,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>QATAR NATIONAL BANK (Q.P.S.C.)</p>
+<p>Qatar National Bank (Q.P.S.C.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>QNB</p>
