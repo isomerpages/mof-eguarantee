@@ -19,8 +19,8 @@ to reap time and cost savings.</p>
 </p>
 </li>
 <li>
-<p><strong>Seamless</strong> - eGuarantee lodged and discharged on eCustoms
-Services via a digitalised process; and</p>
+<p><strong>Seamless</strong> - eGuarantee lodged and discharged on Customs
+eServices via a digitalised process; and</p>
 </li>
 <li>
 <p><strong>Savings</strong> - No need for courier charges and costs for physical
