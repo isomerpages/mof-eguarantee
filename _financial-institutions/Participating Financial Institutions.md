@@ -429,6 +429,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Hesed Insurance Agency Pte. Ltd.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HL Assurance Pte. Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -622,13 +633,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lonpac Insurance Bhd.</p>
+<p>Lonpac Insurance Singapore Pte. Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LONPAC</p>
+<p>LONPAC SG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Link</p>
 </td>
 </tr>
 <tr>
