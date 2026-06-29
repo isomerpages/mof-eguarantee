@@ -633,7 +633,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lonpac Insurnace (Singapore) Pte. Ltd.</p>
+<p>Lonpac Insurance Singapore Pte. Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LONPAC SG</p>
