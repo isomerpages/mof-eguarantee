@@ -8,7 +8,7 @@ variant: tiptap
 <p><em>Note: This segment is relevant to Agencies and Financial Institutions (FIs) only.</em>
 </p>
 <p>With the standardisation of eGuarantee templates, Agencies and FIs only
-need to send the data sets via the Customs eServices (to transmit key information
+need to send the data sets via the Customs eServices to transmit key information
 required to issue and eGuarantee.</p>
 <p>All data sets are sent in CSV format. Each CSV contains the data set of
 a single eGuarantee, except for MOM Migrant Worker Bond use case (i.e.
