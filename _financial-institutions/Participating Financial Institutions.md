@@ -639,7 +639,7 @@ variant: tiptap
 <p>LONPAC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.lonpac.com.sg" rel="noopener nofollow" target="_blank">Link</a>
+<p><a href="https://www.lonpac.com.sg" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
