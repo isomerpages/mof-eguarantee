@@ -432,7 +432,7 @@ variant: tiptap
 <p>Hesed Insurance Agency Pte. Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HIA</p>
+<p>Hesed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -636,10 +636,11 @@ variant: tiptap
 <p>Lonpac Insurance Singapore Pte. Ltd.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LONPAC SG</p>
+<p>LONPAC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Link</p>
+<p><a href="www.lonpac.com.sg" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </td>
 </tr>
 <tr>
