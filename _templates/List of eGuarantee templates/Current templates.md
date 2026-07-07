@@ -41,7 +41,7 @@ you are dealing with.</p>
 <p>GOV_UT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/gov_ut.pdf" rel="noopener noreferrer nofollow" target="_blank">GOV_UT.pdf</a>
+<p><a href="/files/gov_ut__070726_.pdf" rel="noopener nofollow" target="_blank">GOV_UT.pdf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +63,7 @@ issued on or after 6 March 2024</p>
 <p>MOM_SB</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/mom_sb.pdf" rel="noopener noreferrer nofollow" target="_blank">MOM_SB.pdf</a>
+<p><a href="/files/mom_sb__070726_.pdf" rel="noopener nofollow" target="_blank">MOM_SB.pdf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +82,7 @@ Worker Bond use cases</p>
 <p>MOM_SB_MW</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/mom_sb_mw.pdf" rel="noopener noreferrer nofollow" target="_blank">MOM_SB_MW.pdf</a>
+<p><a href="/files/mom_sb_mw__070726_.pdf" rel="noopener nofollow" target="_blank">MOM_SB_MW.pdf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
