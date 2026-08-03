@@ -335,6 +335,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 <p><a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/guarantee" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 <p></p>
