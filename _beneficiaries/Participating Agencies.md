@@ -322,24 +322,30 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Inland Revenue Authority of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IRAS
-<br>
-<br>For <strong>GST Registration</strong>, please use: CGST</p>
-<p></p>
-<p>For <strong>Income Tax</strong>, please use: CIT</p>
+<p>IRAS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For <strong>GST Registration</strong>, please use: CGST</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/guarantee" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For <strong>Income Tax</strong>, please use: CIT</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.iras.gov.sg/taxes/individual-income-tax/employees/scenario-based-faqs-for-working-in-singapore-and-abroad/i-am-working-for-a-foreign-employer" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </td>
