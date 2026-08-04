@@ -1031,6 +1031,4 @@ variant: tiptap
 </tbody>
 </table>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> If
-link is unavailable, please contact the participating FI for more information.
-<br>
-</p>
+link is unavailable, please contact the participating FI for more information</p>
