@@ -532,6 +532,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Industrial and Commercial Bank of China Limited</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ING Bank N.V., Singapore Branch</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1020,6 +1031,4 @@ variant: tiptap
 </tbody>
 </table>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> If
-link is unavailable, please contact the participating FI for more information.
-<br>
-</p>
+link is unavailable, please contact the participating FI for more information</p>
