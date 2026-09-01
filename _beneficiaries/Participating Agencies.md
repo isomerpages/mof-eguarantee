@@ -732,6 +732,17 @@ MOMSB</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National Space Agency of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National Youth Council</p>
 </td>
 <td rowspan="1" colspan="1">
