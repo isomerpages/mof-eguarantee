@@ -704,7 +704,7 @@ MOMSB</p>
 <p>NParks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For dog licensing: <a href="https://www.nparks.gov.sg/avs/pets/owning-a-pet/licensing-a-pet/banker%E2%80%99s-guarantee" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+<p>For dog licensing: <a href="https://go.gov.sg/catdoglicensing" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
