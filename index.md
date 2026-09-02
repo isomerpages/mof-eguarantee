@@ -4,7 +4,10 @@ title: eGuarantee@Gov
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: The eGuarantee@Gov website will undergo scheduled maintenance on
+  10 Sep 2026 from 8.00 p.m. to 12.00 a.m. The website will be temporarily
+  unavailable during this period. We apologise for any inconvenience caused and
+  appreciate your understanding.
 sections:
   - hero:
       background: /images/banner2 (resized).png
